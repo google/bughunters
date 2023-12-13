@@ -1,0 +1,864 @@
+domain: {
+  fqdn: "admin.pring.app"
+  tier: TIER0
+}
+domain: {
+  fqdn: "callback.pring.app"
+  tier: TIER0
+}
+domain: {
+  fqdn: "staging.callback.pring.app"
+  tier: TIER0
+}
+domain: {
+  fqdn: "api.appsheet.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "eu.appsheet.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "lb.appsheet.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "www.appsheet.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "azure.cloudsimple.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "looker.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "de.looker.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "gw2-pbvpn.looker.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "keybox.looker.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "pbvpn.looker.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "rampart.looker.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "login.mandiant.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "app.validation.mandiant.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "accounts.nest.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "accounts.ft.nest.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "dpcapi-admin.photomath.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "internal.photomath.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "signalpath.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "broker.xively.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "be07f80d-ce8a-49a9-ab36-b48433b5630f.dataflow.xively.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "broker.xively.eu"
+  tier: TIER0
+}
+domain: {
+  fqdn: "service.cloudvmwareengine.google"
+  tier: TIER0
+}
+domain: {
+  fqdn: "api.pring.jp"
+  tier: TIER0
+}
+domain: {
+  fqdn: "dev-api.pring.jp"
+  tier: TIER0
+}
+domain: {
+  fqdn: "future-api.pring.jp"
+  tier: TIER0
+}
+domain: {
+  fqdn: "bin.phiar.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "captures.phiar.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "ml.phiar.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-dwh-eu-dev.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-dwh-us-dev.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-gke-app-eu-dev.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-gke-app-eu-prod.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-gke-app-eu-test.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-gke-app-us-prod.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-gke-app-us-test.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-platform-eu-dev.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-platform-eu-test.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "argocd-platform-prod-eu.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "baja.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "cuvar.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "daportal.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "dpcapi.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "dpcapi-admin.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "lapi.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "mankey.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "metabase.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "taportal.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "tlapi.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "zuja.photomath.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "nodeapi-span.sproute.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "span.sproute.net"
+  tier: TIER0
+}
+domain: {
+  fqdn: "signalpath.systems"
+  tier: TIER0
+}
+domain: {
+  fqdn: "help.fitbit.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "myhelp.fitbit.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "adsapi.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-proxy-il.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-proxy-na.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-proxy-row.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-staging.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "app.dataform.co"
+  tier: TIER1
+}
+domain: {
+  fqdn: "passbolt.siemplify.co"
+  tier: TIER1
+}
+domain: {
+  fqdn: "apigee.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "enterprise.apigee.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "sense-ui.apigee.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "censuslooker.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "devops-survey.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dropcam.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "cloud-file-service-gcp.elastifile.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "noc.elastifile.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "intelligence.fireeye.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "accounts.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "coaching-dashboard.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "mgmt.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "www.foreseti.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "apigee.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "corp.looker.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "instancemanagerui.looker.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "lk.looker.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "looker-opensource-components.looker.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "lookercdn.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "lookerdata.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "lookermail.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "advantage.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "api.advantage.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "advantage-api.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "api.intelligence.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "md.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "md-us.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "msvportal.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "plextrac.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "prod.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "validation.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "content.validation.mandiant.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "developer-api.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "developer-api-ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "home.ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "alpha.home.ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "api.home.ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "beta.home.ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "fleet.home.ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "api.srt01.iad01.ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "myaccount.ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "admin.store.ft.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "alpha.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "api.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "clips.camera.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "nexusapi-eu1.camera.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "nexusapi-gl1.camera.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "nexusapi-us1.camera.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "setup.camera.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "webapi.camera.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "fleet.home.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "myaccount.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "nssbridge.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "api.home.production.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "vapi.srt01.iad01.production.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "phoenixapi-cam.production.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "admin.store.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "wallet-service.store.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "wwn5-api.nest.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "supportadmin.nestlabs.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "my.neverware.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dsnom.photomath.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "pointy.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "prod.respond-software.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "siemplifycloud.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "www.virustotal.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-proxy.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "www.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "blueprint.xively.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "blueprint-core.xively.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "bbyt.es"
+  tier: TIER1
+}
+domain: {
+  fqdn: "blueprint.xively.eu"
+  tier: TIER1
+}
+domain: {
+  fqdn: "blueprint-core.xively.eu"
+  tier: TIER1
+}
+domain: {
+  fqdn: "id.xively.eu"
+  tier: TIER1
+}
+domain: {
+  fqdn: "siemplifycloud.internal"
+  tier: TIER1
+}
+domain: {
+  fqdn: "support.pring.jp"
+  tier: TIER1
+}
+domain: {
+  fqdn: "www.pring.jp"
+  tier: TIER1
+}
+domain: {
+  fqdn: "bbinternal.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "brightbytes.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "phiar.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "gl.phiar.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "vidca.phiar.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "aportal.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "bookpoint.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "cms.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "copper.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "core.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dacp.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dcms.photomath.net"
+  tier: TIER1
+}
+domain {
+  fqdn: "dcopper.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dfeeder.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "didp.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dportal.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dproblem-lifecycle.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dsnom.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dsw.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dtap.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dtranslator.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "feeder.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "idp.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "iportal.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "pdb.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "pms-doc.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "portal.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "problem-lifecycle.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "result.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "rip.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "snom.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "sr.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "srs.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "srv4.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tacp.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tcms.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tcopper.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tfeeder.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tidp.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tpdb.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tportal.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tproblem-lifecycle.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "translator.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "trip.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tsnom.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "ttranslator.photomath.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "dlapi.photomath.nettier"
+  tier: TIER1
+}
+domain: {
+  fqdn: "chronicle.security"
+  tier: TIER1
+}
+domain: {
+  fqdn: "autodiscover.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "autodiscover.c.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "bi.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "bidev.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "biqas.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "cs-tableau-bpo.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "fiori.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "fiori-dev.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "feed-moderation.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "health-admin.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "hms-integration.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "ngw.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "qa1synclair.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "simulator-updates.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "customersupport-tableau.site-ops.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "strava.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "studio-assets.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "autodiscover.v.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "iafwsjwcmh.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "tenor.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "wing.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "opensky.wing.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "wayfinder.goog"
+  tier: TIER1
+}
+domain: {
+  fqdn: "webpass.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "work.webpass.net"
+  tier: TIER1
+}
