@@ -1,0 +1,376 @@
+domain: {
+  fqdn: "flash.android.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "accounts.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "console.actions.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "admin.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "bard.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "chrome.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "chromewebstore.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "clients6.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "console.cloud.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "console-secure.cloud.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "ide.cloud.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "shell.cloud.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "ssh.cloud.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "ssh-secure.cloud.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "cloudsearch.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "cloudssh.developers.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "console.developers.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "ediscovery.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "console.firebase.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "inbox.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "issuetracker.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "mail.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "mail-settings.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "myaccount.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "passwords.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "play.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "remotedesktop.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "script.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "takeout.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "vault.google.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "googleacquisitionmigration.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "bugs.chromium.org"
+  tier: TIER0
+}
+domain: {
+  fqdn: "enexpress.app"
+  tier: TIER1
+}
+domain: {
+  fqdn: "ci.android.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "ads.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adwords.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "baseline.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "admin.baseline.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "businessmessages.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "calendar.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "chat.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "clients.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "clients1.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "clients2.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "clients3.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "clients4.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "clients5.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "bigquery.cloud.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "channelservices.cloud.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "partners.cloud.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "source.cloud.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "storage.cloud.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "docs.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "domains.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "drive.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "encrypted.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "express.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "fi.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "get.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "groups.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "hangouts.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "home.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "ipv6.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "lens.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "lers.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "meet.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "messages.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "myactivity.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "notifications.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "pay.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "payments.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "photos.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "admin-baseline.sandbox.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "baseline.sandbox.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "shopping.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "store.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "talkgadget.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "timeline.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "timeline-autopush.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "timeline-staging.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "voice.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "wallet.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "www.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "googlesource.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "checkout.youtube.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "m.youtube.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "payments.youtube.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "studio.youtube.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "www.youtube.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "legalretrievals.google"
+  tier: TIER1
+}
+domain: {
+  fqdn: "threadit.app"
+  tier: TIER1
+}
+domain: {
+  fqdn: "orionwifi.area120.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "signals.area120.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "threadit.area120.com"
+  tier: TIER1
+}
