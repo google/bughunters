@@ -91,6 +91,10 @@ domain: {
   tier: TIER0
 }
 domain: {
+  fqdn: "meet.google.com"
+  tier: TIER0
+}
+domain: {
   fqdn: "myaccount.google.com"
   tier: TIER0
 }
@@ -247,6 +251,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "hume.google.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "ipv6.google.com"
   tier: TIER1
 }
@@ -256,10 +264,6 @@ domain: {
 }
 domain: {
   fqdn: "lers.google.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "meet.google.com"
   tier: TIER1
 }
 domain: {
