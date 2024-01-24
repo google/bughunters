@@ -131,6 +131,14 @@ domain: {
   tier: TIER0
 }
 domain: {
+  fqdn: "g-issues.chromium.org"
+  tier: TIER0
+}
+domain: {
+  fqdn: "issues.chromium.org"
+  tier: TIER0
+}
+domain: {
   fqdn: "enexpress.app"
   tier: TIER1
 }
