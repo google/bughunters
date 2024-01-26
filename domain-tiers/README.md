@@ -49,6 +49,6 @@ This directory contains [text-formatted protocol buffer](https://protobuf.dev/re
 The files are redacted copies of the ones used by the Google Security team to categorize the sensitivity of the applications hosted on a given domain. The list will be automatically updated. Feel free to use the list
 to prioritize your security research on Alphabet's applications.
 
-**Domain sensitivity is inherited from the parent domain** by default. If you don't see a particular subdomain (e.g. "foo.google.com"), check if its parent (e.g. "google.com") is listed; the implicit sensitivity of the subdomain will be the same as the parent's.
+**Domain sensitivity is inherited from the parent domain** by default. If you don't see a particular subdomain (e.g. "foo.google.com"), check if its parent (e.g. "google.com") is listed; the implicit sensitivity of the subdomain will be the same as the parent's. Acquisition domains, however, do not follow this approach. If the domain is not explicitly tiered, TIER4 is assumed.
 
 Domains that are not included in the list should be considered lower tier, or not tiered at all.
