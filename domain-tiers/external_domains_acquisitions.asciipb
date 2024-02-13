@@ -543,10 +543,6 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "bbyt.es"
-  tier: TIER1
-}
-domain: {
   fqdn: "blueprint.xively.eu"
   tier: TIER1
 }
@@ -571,11 +567,23 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "bbinternal.net"
+  fqdn: "cew-production.bbinternal.net"
   tier: TIER1
 }
 domain: {
-  fqdn: "brightbytes.net"
+  fqdn: "clarity-production.bbinternal.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "csd-production.bbinternal.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "early-warning-production.bbinternal.net"
+  tier: TIER1
+}
+domain: {
+  fqdn: "clarity.brightbytes.net"
   tier: TIER1
 }
 domain: {
