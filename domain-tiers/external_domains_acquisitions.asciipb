@@ -31,6 +31,14 @@ domain: {
   tier: TIER0
 }
 domain: {
+  fqdn: "help.fitbit.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "myhelp.fitbit.com"
+  tier: TIER0
+}
+domain: {
   fqdn: "de.looker.com"
   tier: TIER0
 }
@@ -215,38 +223,6 @@ domain: {
   tier: TIER0
 }
 domain: {
-  fqdn: "help.fitbit.com"
-  tier: TIER0
-}
-domain: {
-  fqdn: "myhelp.fitbit.com"
-  tier: TIER0
-}
-domain: {
-  fqdn: "looker.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "adsapi.waze.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "adsapi-proxy-il.waze.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "adsapi-proxy-na.waze.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "adsapi-proxy-row.waze.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "adsapi-staging.waze.com"
-  tier: TIER1
-}
-domain: {
   fqdn: "app.dataform.co"
   tier: TIER1
 }
@@ -295,11 +271,79 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "autodiscover.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "autodiscover.c.fitbit.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "coaching-dashboard.fitbit.com"
   tier: TIER1
 }
 domain: {
+  fqdn: "bi.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "bidev.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "biqas.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "cs-tableau-bpo.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "fiori.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "fiori-dev.corp.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "feed-moderation.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "health-admin.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "hms-integration.fitbit.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "mgmt.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "ngw.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "qa1synclair.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "simulator-updates.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "customersupport-tableau.site-ops.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "strava.fitbit.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "autodiscover.v.fitbit.com"
   tier: TIER1
 }
 domain: {
@@ -308,6 +352,10 @@ domain: {
 }
 domain: {
   fqdn: "apigee.google.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "looker.com"
   tier: TIER1
 }
 domain: {
@@ -503,6 +551,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "vpn.owlchemylabs.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "dsnom.photomath.com"
   tier: TIER1
 }
@@ -527,7 +579,27 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "adsapi.waze.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "adsapi-proxy.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-proxy-il.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-proxy-na.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-proxy-row.waze.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "adsapi-staging.waze.com"
   tier: TIER1
 }
 domain: {
@@ -768,78 +840,6 @@ domain: {
 }
 domain: {
   fqdn: "chronicle.security"
-  tier: TIER1
-}
-domain: {
-  fqdn: "autodiscover.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "autodiscover.c.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "bi.corp.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "bidev.corp.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "biqas.corp.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "cs-tableau-bpo.corp.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "fiori.corp.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "fiori-dev.corp.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "feed-moderation.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "health-admin.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "hms-integration.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "ngw.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "qa1synclair.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "simulator-updates.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "customersupport-tableau.site-ops.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "strava.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "autodiscover.v.fitbit.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "vpn.owlchemylabs.com"
   tier: TIER1
 }
 domain: {
