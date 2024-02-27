@@ -19,10 +19,6 @@ domain: {
   tier: TIER0
 }
 domain: {
-  fqdn: "lb.appsheet.com"
-  tier: TIER0
-}
-domain: {
   fqdn: "www.appsheet.com"
   tier: TIER0
 }
@@ -87,18 +83,6 @@ domain: {
   tier: TIER0
 }
 domain: {
-  fqdn: "broker.xively.com"
-  tier: TIER0
-}
-domain: {
-  fqdn: "be07f80d-ce8a-49a9-ab36-b48433b5630f.dataflow.xively.com"
-  tier: TIER0
-}
-domain: {
-  fqdn: "broker.xively.eu"
-  tier: TIER0
-}
-domain: {
   fqdn: "service.cloudvmwareengine.google"
   tier: TIER0
 }
@@ -112,18 +96,6 @@ domain: {
 }
 domain: {
   fqdn: "future-api.pring.jp"
-  tier: TIER0
-}
-domain: {
-  fqdn: "bin.phiar.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "captures.phiar.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "ml.phiar.net"
   tier: TIER0
 }
 domain: {
@@ -347,10 +319,6 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "www.foreseti.com"
-  tier: TIER1
-}
-domain: {
   fqdn: "apigee.google.com"
   tier: TIER1
 }
@@ -416,10 +384,6 @@ domain: {
 }
 domain: {
   fqdn: "plextrac.mandiant.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "prod.mandiant.com"
   tier: TIER1
 }
 domain: {
@@ -607,30 +571,6 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "blueprint.xively.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "blueprint-core.xively.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "blueprint.xively.eu"
-  tier: TIER1
-}
-domain: {
-  fqdn: "blueprint-core.xively.eu"
-  tier: TIER1
-}
-domain: {
-  fqdn: "id.xively.eu"
-  tier: TIER1
-}
-domain: {
-  fqdn: "siemplifycloud.internal"
-  tier: TIER1
-}
-domain: {
   fqdn: "support.pring.jp"
   tier: TIER1
 }
@@ -656,18 +596,6 @@ domain: {
 }
 domain: {
   fqdn: "clarity.brightbytes.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "phiar.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "gl.phiar.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "vidca.phiar.net"
   tier: TIER1
 }
 domain: {

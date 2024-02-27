@@ -347,6 +347,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "toolbox.googleapps.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "googlesource.com"
   tier: TIER1
 }
