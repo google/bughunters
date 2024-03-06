@@ -735,10 +735,6 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "tpdb.photomath.net"
-  tier: TIER1
-}
-domain: {
   fqdn: "tportal.photomath.net"
   tier: TIER1
 }
