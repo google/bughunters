@@ -1,5 +1,5 @@
 product: {
-  name: GCE
+  name: Google Compute Engine
   tier: Tier 1
 }
 product: {
@@ -19,11 +19,11 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: GCS
+  name: Google Cloud Storage
   tier: Tier 1
 }
 product: {
-  name: GAE
+  name: Google App Engine
   tier: Tier 1
 }
 product: {
@@ -47,10 +47,6 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: IP Address
-  tier: Tier 1
-}
-product: {
   name: Cloud SQL
   tier: Tier 1
 }
@@ -67,7 +63,7 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: GKE
+  name: Google Kubernetes Engine
   tier: Tier 1
 }
 product: {
@@ -87,7 +83,7 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Cloud LB
+  name: Cloud Load Balancing
   tier: Tier 1
 }
 product: {
@@ -155,7 +151,7 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Cloud KMS
+  name: Cloud Key Management Service
   tier: Tier 1
 }
 product: {
@@ -327,11 +323,7 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Looker (Google Cloud core)
-  tier: Tier 1
-}
-product: {
-  name: Looker (original)
+  name: Looker
   tier: Tier 1
 }
 product: {
