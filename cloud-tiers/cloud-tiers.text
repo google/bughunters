@@ -1,0 +1,1860 @@
+product: {
+  name: GCE
+  tier: Tier 1
+}
+product: {
+  name: Persistent Disk
+  tier: Tier 1
+}
+product: {
+  name: Google Cloud Search
+  tier: Tier 1
+}
+product: {
+  name: Cloud Dataflow
+  tier: Tier 1
+}
+product: {
+  name: BigQuery
+  tier: Tier 1
+}
+product: {
+  name: GCS
+  tier: Tier 1
+}
+product: {
+  name: GAE
+  tier: Tier 1
+}
+product: {
+  name: Interconnect
+  tier: Tier 1
+}
+product: {
+  name: Apigee
+  tier: Tier 1
+}
+product: {
+  name: Pub/Sub
+  tier: Tier 1
+}
+product: {
+  name: Cloud Memorystore
+  tier: Tier 1
+}
+product: {
+  name: Cloud Logging
+  tier: Tier 1
+}
+product: {
+  name: IP Address
+  tier: Tier 1
+}
+product: {
+  name: Cloud SQL
+  tier: Tier 1
+}
+product: {
+  name: Firestore
+  tier: Tier 1
+}
+product: {
+  name: User Protection Services
+  tier: Tier 1
+}
+product: {
+  name: Cloud Spanner
+  tier: Tier 1
+}
+product: {
+  name: GKE
+  tier: Tier 1
+}
+product: {
+  name: Cloud Bigtable
+  tier: Tier 1
+}
+product: {
+  name: Cloud Dataproc
+  tier: Tier 1
+}
+product: {
+  name: Cloud Run
+  tier: Tier 1
+}
+product: {
+  name: Security Command Center
+  tier: Tier 1
+}
+product: {
+  name: Cloud LB
+  tier: Tier 1
+}
+product: {
+  name: Private HSM
+  tier: Tier 1
+}
+product: {
+  name: Container Registry Vulnerability Scanning
+  tier: Tier 1
+}
+product: {
+  name: Google Service Control
+  tier: Tier 1
+}
+product: {
+  name: Cloud Data Loss Prevention
+  tier: Tier 1
+}
+product: {
+  name: Cloud DNS
+  tier: Tier 1
+}
+product: {
+  name: Cloud Armor
+  tier: Tier 1
+}
+product: {
+  name: Identity Platform
+  tier: Tier 1
+}
+product: {
+  name: Cloud VPN
+  tier: Tier 1
+}
+product: {
+  name: Assured Workloads
+  tier: Tier 1
+}
+product: {
+  name: Confidential Compute
+  tier: Tier 1
+}
+product: {
+  name: Private Service Connect
+  tier: Tier 1
+}
+product: {
+  name: Secret Manager
+  tier: Tier 1
+}
+product: {
+  name: BeyondCorp Enterprise
+  tier: Tier 1
+}
+product: {
+  name: Private CA
+  tier: Tier 1
+}
+product: {
+  name: Artifact Registry
+  tier: Tier 1
+}
+product: {
+  name: Cloud IDS
+  tier: Tier 1
+}
+product: {
+  name: Cloud KMS
+  tier: Tier 1
+}
+product: {
+  name: Binary Authorization
+  tier: Tier 1
+}
+product: {
+  name: Cloud Firewall
+  tier: Tier 1
+}
+product: {
+  name: Cloud Domains
+  tier: Tier 1
+}
+product: {
+  name: Cloud Billing
+  tier: Tier 1
+}
+product: {
+  name: Pantheon
+  tier: Tier 1
+}
+product: {
+  name: Cloud Shell
+  tier: Tier 1
+}
+product: {
+  name: Identity and Access Management
+  tier: Tier 1
+}
+product: {
+  name: Cloud Identity
+  tier: Tier 1
+}
+product: {
+  name: Virtual Private Cloud
+  tier: Tier 1
+}
+product: {
+  name: Chronicle Security
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI
+  tier: Tier 1
+}
+product: {
+  name: Cloud Speech API
+  tier: Tier 1
+}
+product: {
+  name: Cloud Vision API
+  tier: Tier 1
+}
+product: {
+  name: Looker
+  tier: Tier 1
+}
+product: {
+  name: Cloud Natural Language API
+  tier: Tier 1
+}
+product: {
+  name: Cloud Text-to-Speech API
+  tier: Tier 1
+}
+product: {
+  name: Cloud Document API
+  tier: Tier 1
+}
+product: {
+  name: AutoML
+  tier: Tier 1
+}
+product: {
+  name: AlloyDB
+  tier: Tier 1
+}
+product: {
+  name: AlloyDB for PostgreSQL
+  tier: Tier 1
+}
+product: {
+  name: AlloyDB Omni
+  tier: Tier 1
+}
+product: {
+  name: App Engine Flexible
+  tier: Tier 1
+}
+product: {
+  name: App Engine Standard
+  tier: Tier 1
+}
+product: {
+  name: Application Load Balancer
+  tier: Tier 1
+}
+product: {
+  name: AutoML Natural Language
+  tier: Tier 1
+}
+product: {
+  name: AutoML Tables
+  tier: Tier 1
+}
+product: {
+  name: AutoML Translation
+  tier: Tier 1
+}
+product: {
+  name: AutoML Video Intelligence
+  tier: Tier 1
+}
+product: {
+  name: AutoML Vision
+  tier: Tier 1
+}
+product: {
+  name: Cloud NGFW
+  tier: Tier 1
+}
+product: {
+  name: Cloud NGFW Enterprise
+  tier: Tier 1
+}
+product: {
+  name: Cloud NGFW Essentials
+  tier: Tier 1
+}
+product: {
+  name: Cloud Run for GKE Enterprise
+  tier: Tier 1
+}
+product: {
+  name: Cloud SQL for MySQL
+  tier: Tier 1
+}
+product: {
+  name: Cloud SQL for PostgreSQL
+  tier: Tier 1
+}
+product: {
+  name: Cloud SQL Recommender
+  tier: Tier 1
+}
+product: {
+  name: Contact Center Agent Assist
+  tier: Tier 1
+}
+product: {
+  name: Contact Center AI Insights
+  tier: Tier 1
+}
+product: {
+  name: Contact Center AI Platform
+  tier: Tier 1
+}
+product: {
+  name: Diagflow
+  tier: Tier 1
+}
+product: {
+  name: Diagflow CX
+  tier: Tier 1
+}
+product: {
+  name: Healthcare Data Engine
+  tier: Tier 1
+}
+product: {
+  name: Looker (Google Cloud core)
+  tier: Tier 1
+}
+product: {
+  name: Looker (original)
+  tier: Tier 1
+}
+product: {
+  name: Looker Android
+  tier: Tier 1
+}
+product: {
+  name: Looker iOS
+  tier: Tier 1
+}
+product: {
+  name: Looker Mobile
+  tier: Tier 1
+}
+product: {
+  name: Looker Studio
+  tier: Tier 1
+}
+product: {
+  name: Looker Studio
+  tier: Tier 1
+}
+product: {
+  name: Looker Studio Android
+  tier: Tier 1
+}
+product: {
+  name: Looker Studio IOS
+  tier: Tier 1
+}
+product: {
+  name: Looker Studio Mobile
+  tier: Tier 1
+}
+product: {
+  name: Looker Studio Pro
+  tier: Tier 1
+}
+product: {
+  name: Monarch
+  tier: Tier 1
+}
+product: {
+  name: Passthrough Network Load Balancer
+  tier: Tier 1
+}
+product: {
+  name: Proxy Network Load Balancer
+  tier: Tier 1
+}
+product: {
+  name: Speech-to-Text On-Device
+  tier: Tier 1
+}
+product: {
+  name: Speech-to-Text On-Prem
+  tier: Tier 1
+}
+product: {
+  name: Unified Autoscaling
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Agent Builder
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Cloud Search
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Codey
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Codey Chat
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Codey Code Generation
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Codey Completion
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Conversation
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Data Labelling
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Decision Optimization
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Embeddings for Multimodal
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Embeddings for Text
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Experiments
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Feature Store
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Image Generation
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI in Firebase
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Managed Datasets
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Med-PaLM
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Model Garden
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Model Monitoring
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Model Registry
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI PaLM 2
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Pipelines
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Prediction
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Search
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Search for Healthcare
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Search for Media
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Sec-PaLM
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Tabular Workflows
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI TensorBoard
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Training
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Translation Hub
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Vector Search
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Veo
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Vision
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Vizier
+  tier: Tier 1
+}
+product: {
+  name: Vertex AI Workbench
+  tier: Tier 1
+}
+product: {
+  name: Vertex Deep Learning Containers
+  tier: Tier 1
+}
+product: {
+  name: Vertex Deep Learning VM Images
+  tier: Tier 1
+}
+product: {
+  name: Vertex Explainable AI
+  tier: Tier 1
+}
+product: {
+  name: Vertex Extensions
+  tier: Tier 1
+}
+product: {
+  name: Vertex ML Metadata
+  tier: Tier 1
+}
+product: {
+  name: Vertex Palm API for Chat
+  tier: Tier 1
+}
+product: {
+  name: Vertex Palm API for Text
+  tier: Tier 1
+}
+product: {
+  name: Vertex SDK
+  tier: Tier 1
+}
+product: {
+  name: GPUs
+  tier: Tier 2
+}
+product: {
+  name: Cloud Monitoring
+  tier: Tier 2
+}
+product: {
+  name: Firebase
+  tier: Tier 2
+}
+product: {
+  name: Cloud Functions
+  tier: Tier 2
+}
+product: {
+  name: Cloud Composer
+  tier: Tier 2
+}
+product: {
+  name: Cloud Build
+  tier: Tier 2
+}
+product: {
+  name: Cloud Tasks
+  tier: Tier 2
+}
+product: {
+  name: Data Catalog
+  tier: Tier 2
+}
+product: {
+  name: Backup and DR
+  tier: Tier 3
+}
+product: {
+  name: Local SSD
+  tier: Tier 3
+}
+product: {
+  name: Cloud CDN
+  tier: Tier 3
+}
+product: {
+  name: Translate
+  tier: Tier 3
+}
+product: {
+  name: Filestore
+  tier: Tier 3
+}
+product: {
+  name: Network Other
+  tier: Tier 3
+}
+product: {
+  name: Legacy AI Platform
+  tier: Tier 3
+}
+product: {
+  name: Industry Solutions
+  tier: Tier 3
+}
+product: {
+  name: Cloud Dialogflow
+  tier: Tier 3
+}
+product: {
+  name: Managed Services Fee
+  tier: Tier 3
+}
+product: {
+  name: VM Image Storage
+  tier: Tier 3
+}
+product: {
+  name: Bare Metal Solution
+  tier: Tier 3
+}
+product: {
+  name: Cloud AutoML Recommendations
+  tier: Tier 3
+}
+product: {
+  name: Firebase Test Lab
+  tier: Tier 3
+}
+product: {
+  name: VPC Flow Logs
+  tier: Tier 3
+}
+product: {
+  name: Remote Build Execution
+  tier: Tier 3
+}
+product: {
+  name: Cloud Video Intelligence API
+  tier: Tier 3
+}
+product: {
+  name: Cloud SAP Bundle
+  tier: Tier 3
+}
+product: {
+  name: Cloud IoT Core
+  tier: Tier 3
+}
+product: {
+  name: Packet Mirroring
+  tier: Tier 3
+}
+product: {
+  name: Network Intelligence Center
+  tier: Tier 3
+}
+product: {
+  name: Media
+  tier: Tier 3
+}
+product: {
+  name: Cloud Data Fusion
+  tier: Tier 3
+}
+product: {
+  name: Traffic
+  tier: Tier 3
+}
+product: {
+  name: Source Repository
+  tier: Tier 3
+}
+product: {
+  name: Cloud Data Transfer - Service
+  tier: Tier 3
+}
+product: {
+  name: Marketing Analytics Pack
+  tier: Tier 3
+}
+product: {
+  name: Geospatial
+  tier: Tier 3
+}
+product: {
+  name: Cloud Data Transfer - Appliance
+  tier: Tier 3
+}
+product: {
+  name: Cloud Trace
+  tier: Tier 3
+}
+product: {
+  name: Cloud Data Labeling Service
+  tier: Tier 3
+}
+product: {
+  name: Media Translation API
+  tier: Tier 3
+}
+product: {
+  name: Egress
+  tier: Tier 3
+}
+product: {
+  name: Workflows
+  tier: Tier 3
+}
+product: {
+  name: Network Connectivity Center
+  tier: Tier 3
+}
+product: {
+  name: Cloud Subscriptions
+  tier: Tier 3
+}
+product: {
+  name: Google Cloud Vision OCR
+  tier: Tier 3
+}
+product: {
+  name: Cloud Media Edge
+  tier: Tier 3
+}
+product: {
+  name: Cloud Scheduler
+  tier: Tier 3
+}
+product: {
+  name: Dataproc Metastore
+  tier: Tier 3
+}
+product: {
+  name: Pub/Sub Lite
+  tier: Tier 3
+}
+product: {
+  name: Datastream
+  tier: Tier 3
+}
+product: {
+  name: Cloud Deploy
+  tier: Tier 3
+}
+product: {
+  name: AppSheet
+  tier: Tier 3
+}
+product: {
+  name: Cloud AI Platform
+  tier: Tier 3
+}
+product: {
+  name: VMWare Engine
+  tier: Tier 3
+}
+product: {
+  name: Google Distributed Cloud: Edge
+  tier: Tier 3
+}
+product: {
+  name: Google Distributed Cloud: Hosted
+  tier: Tier 3
+}
+product: {
+  name: Anthos Bare Metal
+  tier: Tier 3
+}
+product: {
+  name: Anthos Identity Services
+  tier: Tier 3
+}
+product: {
+  name: Anthos Config Management
+  tier: Tier 3
+}
+product: {
+  name: GKE Connect
+  tier: Tier 3
+}
+product: {
+  name: GCE Shielded VM/Trusted VM
+  tier: Tier 3
+}
+product: {
+  name: Google Cloud Marketplace
+  tier: Tier 3
+}
+product: {
+  name: Google Service Mesh
+  tier: Tier 3
+}
+product: {
+  name: Cloud AD
+  tier: Tier 3
+}
+product: {
+  name: Dataplex
+  tier: Tier 3
+}
+product: {
+  name: Cloud Asset Inventory & Search
+  tier: Tier 3
+}
+product: {
+  name: 3M: Migration Center
+  tier: Tier 3
+}
+product: {
+  name: A2
+  tier: Tier 3
+}
+product: {
+  name: A2+
+  tier: Tier 3
+}
+product: {
+  name: A3
+  tier: Tier 3
+}
+product: {
+  name: Access Context Manager
+  tier: Tier 3
+}
+product: {
+  name: Access Transparency
+  tier: Tier 3
+}
+product: {
+  name: Advisory Notifications
+  tier: Tier 3
+}
+product: {
+  name: Advisory Notifications Recommender
+  tier: Tier 3
+}
+product: {
+  name: AI Platform Pipelines
+  tier: Tier 3
+}
+product: {
+  name: AI Platform Training
+  tier: Tier 3
+}
+product: {
+  name: AI Studio
+  tier: Tier 3
+}
+product: {
+  name: AI Tasks
+  tier: Tier 3
+}
+product: {
+  name: Analytics Hub
+  tier: Tier 3
+}
+product: {
+  name: Anti Money Laundering AI
+  tier: Tier 3
+}
+product: {
+  name: API Registry
+  tier: Tier 3
+}
+product: {
+  name: Apigee Edge Private Cloud
+  tier: Tier 3
+}
+product: {
+  name: Apigee Edge Public Cloud
+  tier: Tier 3
+}
+product: {
+  name: App Hub
+  tier: Tier 3
+}
+product: {
+  name: Application Integration
+  tier: Tier 3
+}
+product: {
+  name: Assured Open Source Software
+  tier: Tier 3
+}
+product: {
+  name: Assured Workloads Monitoring
+  tier: Tier 3
+}
+product: {
+  name: Audit Manager
+  tier: Tier 3
+}
+product: {
+  name: Balanced persistent disks
+  tier: Tier 3
+}
+product: {
+  name: Bare Metal HSM
+  tier: Tier 3
+}
+product: {
+  name: Bare Metal Solution for Oracle
+  tier: Tier 3
+}
+product: {
+  name: Bare Metal Solution for SAP
+  tier: Tier 3
+}
+product: {
+  name: BigLake
+  tier: Tier 3
+}
+product: {
+  name: BigQuery Engine for Apache Flink
+  tier: Tier 3
+}
+product: {
+  name: BigQuery Recommender
+  tier: Tier 3
+}
+product: {
+  name: Blockchain Analytics
+  tier: Tier 3
+}
+product: {
+  name: Blockchain Node Engine
+  tier: Tier 3
+}
+product: {
+  name: Blockchain RPC
+  tier: Tier 3
+}
+product: {
+  name: Blockchain Validator Manager
+  tier: Tier 3
+}
+product: {
+  name: Capacity Planner
+  tier: Tier 3
+}
+product: {
+  name: Carbon Footprint
+  tier: Tier 3
+}
+product: {
+  name: CCAI Connector
+  tier: Tier 3
+}
+product: {
+  name: Certificate Manager
+  tier: Tier 3
+}
+product: {
+  name: Channel Services
+  tier: Tier 3
+}
+product: {
+  name: Classic Application Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Classic Proxy Network Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Cloud API Gateway
+  tier: Tier 3
+}
+product: {
+  name: Cloud APIs
+  tier: Tier 3
+}
+product: {
+  name: Cloud Billing Recommender
+  tier: Tier 3
+}
+product: {
+  name: Cloud Build (1st Gen)
+  tier: Tier 3
+}
+product: {
+  name: Cloud Build (2nd Gen)
+  tier: Tier 3
+}
+product: {
+  name: Cloud Code
+  tier: Tier 3
+}
+product: {
+  name: Cloud Code for Cloud Shell Editor
+  tier: Tier 3
+}
+product: {
+  name: Cloud Code for Cloud Workstations
+  tier: Tier 3
+}
+product: {
+  name: Cloud Code for JetBrains IDE
+  tier: Tier 3
+}
+product: {
+  name: Cloud Code for vscode
+  tier: Tier 3
+}
+product: {
+  name: Cloud Customer Communities
+  tier: Tier 3
+}
+product: {
+  name: Cloud Deployment Manager
+  tier: Tier 3
+}
+product: {
+  name: Cloud Endpoints
+  tier: Tier 3
+}
+product: {
+  name: Cloud Error Reporting
+  tier: Tier 3
+}
+product: {
+  name: Cloud Functions for Firebase
+  tier: Tier 3
+}
+product: {
+  name: Cloud Functions Recommender
+  tier: Tier 3
+}
+product: {
+  name: Cloud Healthcare API
+  tier: Tier 3
+}
+product: {
+  name: Cloud IAM Recommender
+  tier: Tier 3
+}
+product: {
+  name: Cloud Infrastructure Entitlement Management
+  tier: Tier 3
+}
+product: {
+  name: Cloud KMS KACLS
+  tier: Tier 3
+}
+product: {
+  name: Cloud Life Sciences
+  tier: Tier 3
+}
+product: {
+  name: Cloud Mobile App
+  tier: Tier 3
+}
+product: {
+  name: Cloud NAT
+  tier: Tier 3
+}
+product: {
+  name: Cloud Profiler
+  tier: Tier 3
+}
+product: {
+  name: Cloud Quotas
+  tier: Tier 3
+}
+product: {
+  name: Cloud Router
+  tier: Tier 3
+}
+product: {
+  name: Cloud Run functions (1st generation)
+  tier: Tier 3
+}
+product: {
+  name: Cloud Run Recommender
+  tier: Tier 3
+}
+product: {
+  name: Cloud SDK - Client Libraries
+  tier: Tier 3
+}
+product: {
+  name: Cloud SDK - Google Cloud CLI
+  tier: Tier 3
+}
+product: {
+  name: Cloud Service Health
+  tier: Tier 3
+}
+product: {
+  name: Cloud Skills Boost
+  tier: Tier 3
+}
+product: {
+  name: Cloud Storage for Firebase
+  tier: Tier 3
+}
+product: {
+  name: Cloud Support
+  tier: Tier 3
+}
+product: {
+  name: Cloud TPU
+  tier: Tier 3
+}
+product: {
+  name: Cloud Workstations
+  tier: Tier 3
+}
+product: {
+  name: Colab Enterprise
+  tier: Tier 3
+}
+product: {
+  name: Compute Engine Recommender
+  tier: Tier 3
+}
+product: {
+  name: Config Controller
+  tier: Tier 3
+}
+product: {
+  name: Connectivity Tests
+  tier: Tier 3
+}
+product: {
+  name: Container Registry
+  tier: Tier 3
+}
+product: {
+  name: Cross-Cloud Interconnect
+  tier: Tier 3
+}
+product: {
+  name: Cross-region Internal Application Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Cross-region Internal Proxy Network Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Custom Automotive AI Agent
+  tier: Tier 3
+}
+product: {
+  name: Customer Care Portal
+  tier: Tier 3
+}
+product: {
+  name: Database Center
+  tier: Tier 3
+}
+product: {
+  name: Database Migration Service
+  tier: Tier 3
+}
+product: {
+  name: Databases Studio
+  tier: Tier 3
+}
+product: {
+  name: Datalab
+  tier: Tier 3
+}
+product: {
+  name: Dataprep
+  tier: Tier 3
+}
+product: {
+  name: Dataproc Serverless
+  tier: Tier 3
+}
+product: {
+  name: Developer Connect
+  tier: Tier 3
+}
+product: {
+  name: Dual Run
+  tier: Tier 3
+}
+product: {
+  name: Easy APIs
+  tier: Tier 3
+}
+product: {
+  name: Eventarc
+  tier: Tier 3
+}
+product: {
+  name: External Passthrough Network Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Extreme persistent disks
+  tier: Tier 3
+}
+product: {
+  name: Firebase Analytics
+  tier: Tier 3
+}
+product: {
+  name: Firebase App Check
+  tier: Tier 3
+}
+product: {
+  name: Firebase App Distribution
+  tier: Tier 3
+}
+product: {
+  name: Firebase App Hosting
+  tier: Tier 3
+}
+product: {
+  name: Firebase Auth Standard
+  tier: Tier 3
+}
+product: {
+  name: Firebase Authentication with Identity Platform
+  tier: Tier 3
+}
+product: {
+  name: Firebase Cloud Messaging
+  tier: Tier 3
+}
+product: {
+  name: Firebase Data Connect
+  tier: Tier 3
+}
+product: {
+  name: Firebase Dynamic Links
+  tier: Tier 3
+}
+product: {
+  name: Firebase Extensions
+  tier: Tier 3
+}
+product: {
+  name: Firebase Hosting
+  tier: Tier 3
+}
+product: {
+  name: Firebase Realtime Database
+  tier: Tier 3
+}
+product: {
+  name: Firebase Remote Config
+  tier: Tier 3
+}
+product: {
+  name: Firewall Insights
+  tier: Tier 3
+}
+product: {
+  name: G2
+  tier: Tier 3
+}
+product: {
+  name: Game Servers
+  tier: Tier 3
+}
+product: {
+  name: GCP Platform Recommender
+  tier: Tier 3
+}
+product: {
+  name: Gemini API
+  tier: Tier 3
+}
+product: {
+  name: Gemini Cloud Assist
+  tier: Tier 3
+}
+product: {
+  name: Gemini Code Assist
+  tier: Tier 3
+}
+product: {
+  name: Gemini Workload Modernizer
+  tier: Tier 3
+}
+product: {
+  name: Gen AI on Document AI
+  tier: Tier 3
+}
+product: {
+  name: Gen AI on Vertex Serving
+  tier: Tier 3
+}
+product: {
+  name: GKE Attached Clusters
+  tier: Tier 3
+}
+product: {
+  name: GKE Autopilot
+  tier: Tier 3
+}
+product: {
+  name: GKE Enterprise on GCP
+  tier: Tier 3
+}
+product: {
+  name: GKE on AWS
+  tier: Tier 3
+}
+product: {
+  name: GKE on Azure
+  tier: Tier 3
+}
+product: {
+  name: GKE on Multi-Cloud
+  tier: Tier 3
+}
+product: {
+  name: GKE Recommender
+  tier: Tier 3
+}
+product: {
+  name: GKE Standard
+  tier: Tier 3
+}
+product: {
+  name: Global External Application Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Global External Proxy Network Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Google Cloud Armor Enterprise
+  tier: Tier 3
+}
+product: {
+  name: Google Cloud Armor Standard
+  tier: Tier 3
+}
+product: {
+  name: Google Cloud Console (Original)
+  tier: Tier 3
+}
+product: {
+  name: Google Cloud Hyperdisk
+  tier: Tier 3
+}
+product: {
+  name: Google Cloud iOS App
+  tier: Tier 3
+}
+product: {
+  name: Google Cloud NetApp Volumes
+  tier: Tier 3
+}
+product: {
+  name: Google Distributed Cloud air-gapped appliance
+  tier: Tier 3
+}
+product: {
+  name: Google Distributed Cloud Sandbox
+  tier: Tier 3
+}
+product: {
+  name: Google Distributed Cloud Virtual
+  tier: Tier 3
+}
+product: {
+  name: Google Distributed Cloud Virtual - vSphere
+  tier: Tier 3
+}
+product: {
+  name: Google Maps Platform Recommender
+  tier: Tier 3
+}
+product: {
+  name: Google SecOps SOAR
+  tier: Tier 3
+}
+product: {
+  name: Identity-Aware Proxy
+  tier: Tier 3
+}
+product: {
+  name: Imagen
+  tier: Tier 3
+}
+product: {
+  name: Immersive Stream for XR
+  tier: Tier 3
+}
+product: {
+  name: Infrastructure Manager
+  tier: Tier 3
+}
+product: {
+  name: Inter-region Egress
+  tier: Tier 3
+}
+product: {
+  name: Inter-zone Egress
+  tier: Tier 3
+}
+product: {
+  name: Internal Passthrough Network Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Investigator AI
+  tier: Tier 3
+}
+product: {
+  name: Jurisdictional Cloud Console - EU
+  tier: Tier 3
+}
+product: {
+  name: Jurisdictional Cloud Console - KSA
+  tier: Tier 3
+}
+product: {
+  name: Jurisdictional Cloud Console - US
+  tier: Tier 3
+}
+product: {
+  name: K80
+  tier: Tier 3
+}
+product: {
+  name: Kaniko
+  tier: Tier 3
+}
+product: {
+  name: Key Access Justifications
+  tier: Tier 3
+}
+product: {
+  name: Kf
+  tier: Tier 3
+}
+product: {
+  name: L4 Private Service Connect
+  tier: Tier 3
+}
+product: {
+  name: L7 Private Service Connect
+  tier: Tier 3
+}
+product: {
+  name: Live Stream API
+  tier: Tier 3
+}
+product: {
+  name: Mainframe Assessment Tool
+  tier: Tier 3
+}
+product: {
+  name: Mainframe Connector
+  tier: Tier 3
+}
+product: {
+  name: Mainframe GenAI
+  tier: Tier 3
+}
+product: {
+  name: Mainframe Refactor
+  tier: Tier 3
+}
+product: {
+  name: Managed Lustre
+  tier: Tier 3
+}
+product: {
+  name: Managed Service for Apache Kafka
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Attack Investigation & Prioritization
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Attack Surface Management
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Breach Analytics for Chronicle
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Digital Threat Monitoring
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Expertise on Demand
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Hunt
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Managed Defense
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Managed Validation
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Ransomware Defense Validation
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Security Validation
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Security Validation - On Prem
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Security Validation - SaaS
+  tier: Tier 3
+}
+product: {
+  name: Mandiant Threat Intelligence
+  tier: Tier 3
+}
+product: {
+  name: Memorystore for Memcached
+  tier: Tier 3
+}
+product: {
+  name: Memorystore for Redis
+  tier: Tier 3
+}
+product: {
+  name: Memorystore for Redis Cluster
+  tier: Tier 3
+}
+product: {
+  name: Memorystore for Valkey
+  tier: Tier 3
+}
+product: {
+  name: Model Armor
+  tier: Tier 3
+}
+product: {
+  name: Network Analyzer
+  tier: Tier 3
+}
+product: {
+  name: Network Security Integration
+  tier: Tier 3
+}
+product: {
+  name: Network Service Tiers
+  tier: Tier 3
+}
+product: {
+  name: Network Telemetry
+  tier: Tier 3
+}
+product: {
+  name: Network Topology
+  tier: Tier 3
+}
+product: {
+  name: OAuth
+  tier: Tier 3
+}
+product: {
+  name: Oracle Database@Google Cloud
+  tier: Tier 3
+}
+product: {
+  name: P100
+  tier: Tier 3
+}
+product: {
+  name: P4
+  tier: Tier 3
+}
+product: {
+  name: Parallelstore
+  tier: Tier 3
+}
+product: {
+  name: Payment Gateway
+  tier: Tier 3
+}
+product: {
+  name: Performance (SSD) persistent disks
+  tier: Tier 3
+}
+product: {
+  name: Performance Dashboards
+  tier: Tier 3
+}
+product: {
+  name: Personalized Service Health
+  tier: Tier 3
+}
+product: {
+  name: PINT
+  tier: Tier 3
+}
+product: {
+  name: Policy Intelligence
+  tier: Tier 3
+}
+product: {
+  name: PolicySet
+  tier: Tier 3
+}
+product: {
+  name: Premium Tier
+  tier: Tier 3
+}
+product: {
+  name: Private NAT
+  tier: Tier 3
+}
+product: {
+  name: Private Services Access
+  tier: Tier 3
+}
+product: {
+  name: Privileged Access Manager
+  tier: Tier 3
+}
+product: {
+  name: Public NAT
+  tier: Tier 3
+}
+product: {
+  name: Ray on Vertex
+  tier: Tier 3
+}
+product: {
+  name: reCAPTCHA Enterprise
+  tier: Tier 3
+}
+product: {
+  name: Recommender
+  tier: Tier 3
+}
+product: {
+  name: Regional External Application Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Regional External Proxy Network Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Regional Internal Application Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Regional Internal Proxy Network Load Balancer
+  tier: Tier 3
+}
+product: {
+  name: Resource Manager
+  tier: Tier 3
+}
+product: {
+  name: Resource Manager Recommender
+  tier: Tier 3
+}
+product: {
+  name: Retail API
+  tier: Tier 3
+}
+product: {
+  name: Retail Search
+  tier: Tier 3
+}
+product: {
+  name: Risk Manager
+  tier: Tier 3
+}
+product: {
+  name: Run on GKE
+  tier: Tier 3
+}
+product: {
+  name: SaaS Service Management
+  tier: Tier 3
+}
+product: {
+  name: Safe Browsing
+  tier: Tier 3
+}
+product: {
+  name: Secure Source Manager
+  tier: Tier 3
+}
+product: {
+  name: Secure Web Proxy
+  tier: Tier 3
+}
+product: {
+  name: Service Catalog
+  tier: Tier 3
+}
+product: {
+  name: Service Directory
+  tier: Tier 3
+}
+product: {
+  name: Service Extensions
+  tier: Tier 3
+}
+product: {
+  name: Service Infrastructure
+  tier: Tier 3
+}
+product: {
+  name: Service Usage
+  tier: Tier 3
+}
+product: {
+  name: Skaffold
+  tier: Tier 3
+}
+product: {
+  name: Solutions Catalog
+  tier: Tier 3
+}
+product: {
+  name: Sovereign Controls by Partners
+  tier: Tier 3
+}
+product: {
+  name: Speaker ID
+  tier: Tier 3
+}
+product: {
+  name: Spectrum Access System
+  tier: Tier 3
+}
+product: {
+  name: SQL Server on Google Cloud
+  tier: Tier 3
+}
+product: {
+  name: Standard persistent disks
+  tier: Tier 3
+}
+product: {
+  name: Standard Tier
+  tier: Tier 3
+}
+product: {
+  name: T4
+  tier: Tier 3
+}
+product: {
+  name: Tags
+  tier: Tier 3
+}
+product: {
+  name: Talent Solutions
+  tier: Tier 3
+}
+product: {
+  name: Tekton
+  tier: Tier 3
+}
+product: {
+  name: Telecom Network Automation
+  tier: Tier 3
+}
+product: {
+  name: Telecom Subscriber Insights
+  tier: Tier 3
+}
+product: {
+  name: TensorFlow Enterprise
+  tier: Tier 3
+}
+product: {
+  name: Text Search
+  tier: Tier 3
+}
+product: {
+  name: Text Search API
+  tier: Tier 3
+}
+product: {
+  name: Text Search JS
+  tier: Tier 3
+}
+product: {
+  name: Timeseries Insights API
+  tier: Tier 3
+}
+product: {
+  name: Tools for Eclipse
+  tier: Tier 3
+}
+product: {
+  name: Tools for PowerShell
+  tier: Tier 3
+}
+product: {
+  name: Tools for Visual Studio
+  tier: Tier 3
+}
+product: {
+  name: Transcoder API
+  tier: Tier 3
+}
+product: {
+  name: Unified Maintenance
+  tier: Tier 3
+}
+product: {
+  name: V100
+  tier: Tier 3
+}
+product: {
+  name: Video Stitcher API
+  tier: Tier 3
+}
+product: {
+  name: Visual Inspection AI
+  tier: Tier 3
+}
