@@ -319,6 +319,22 @@ product: {
   tier: Tier 1
 }
 product: {
+  name: Gemini API
+  tier: Tier 1
+}
+product: {
+  name: Gemini Cloud Assist
+  tier: Tier 1
+}
+product: {
+  name: Gemini Code Assist
+  tier: Tier 1
+}
+product: {
+  name: Gemini Workload Modernizer
+  tier: Tier 1
+}
+product: {
   name: Healthcare Data Engine
   tier: Tier 1
 }
@@ -1284,22 +1300,6 @@ product: {
 }
 product: {
   name: GCP Platform Recommender
-  tier: Tier 3
-}
-product: {
-  name: Gemini API
-  tier: Tier 3
-}
-product: {
-  name: Gemini Cloud Assist
-  tier: Tier 3
-}
-product: {
-  name: Gemini Code Assist
-  tier: Tier 3
-}
-product: {
-  name: Gemini Workload Modernizer
   tier: Tier 3
 }
 product: {
