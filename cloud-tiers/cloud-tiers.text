@@ -95,7 +95,7 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Google Service Control
+  name: VPC Service Controls
   tier: Tier 1
 }
 product: {
