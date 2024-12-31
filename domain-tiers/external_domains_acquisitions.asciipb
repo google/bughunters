@@ -23,6 +23,10 @@ domain: {
   tier: TIER0
 }
 domain: {
+  fqdn: "cameyo.com"
+  tier: TIER0
+}
+domain: {
   fqdn: "azure.cloudsimple.com"
   tier: TIER0
 }
@@ -79,10 +83,6 @@ domain: {
   tier: TIER0
 }
 domain: {
-  fqdn: "signalpath.com"
-  tier: TIER0
-}
-domain: {
   fqdn: "service.cloudvmwareengine.google"
   tier: TIER0
 }
@@ -96,6 +96,10 @@ domain: {
 }
 domain: {
   fqdn: "future-api.pring.jp"
+  tier: TIER0
+}
+domain: {
+  fqdn: "cameyo.net"
   tier: TIER0
 }
 domain: {
@@ -180,18 +184,6 @@ domain: {
 }
 domain: {
   fqdn: "zuja.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "nodeapi-span.sproute.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "span.sproute.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "signalpath.systems"
   tier: TIER0
 }
 domain: {

@@ -135,6 +135,10 @@ domain: {
   tier: TIER0
 }
 domain: {
+  fqdn: "googlecloudcheatsheet.withgoogle.com"
+  tier: TIER0
+}
+domain: {
   fqdn: "bugs.chromium.org"
   tier: TIER0
 }
@@ -151,7 +155,23 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "threadit.app"
+  tier: TIER1
+}
+domain: {
   fqdn: "ci.android.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "orionwifi.area120.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "signals.area120.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "threadit.area120.com"
   tier: TIER1
 }
 domain: {
@@ -311,6 +331,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "shop.google.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "shopping.google.com"
   tier: TIER1
 }
@@ -379,18 +403,6 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "threadit.app"
-  tier: TIER1
-}
-domain: {
-  fqdn: "orionwifi.area120.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "signals.area120.com"
-  tier: TIER1
-}
-domain: {
-  fqdn: "threadit.area120.com"
+  fqdn: "orion.google"
   tier: TIER1
 }
