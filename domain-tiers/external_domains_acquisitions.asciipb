@@ -571,26 +571,6 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "cew-production.bbinternal.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "clarity-production.bbinternal.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "csd-production.bbinternal.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "early-warning-production.bbinternal.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "clarity.brightbytes.net"
-  tier: TIER1
-}
-domain: {
   fqdn: "aportal.photomath.net"
   tier: TIER1
 }
