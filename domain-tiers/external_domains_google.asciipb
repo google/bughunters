@@ -146,6 +146,10 @@ domain: {
   fqdn: "g-issues.chromium.org"
   tier: TIER0
 }
+domain {
+  fqdn: "bughunters.google.com"
+  tier: TIER0
+}
 domain: {
   fqdn: "issues.chromium.org"
   tier: TIER0
