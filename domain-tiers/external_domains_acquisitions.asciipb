@@ -739,6 +739,2926 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "ordering.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "photomath.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "b2c.pring.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "shop.pring.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "savageplanetgame.ca"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.savageplanetgame.ca"
+  tier: TIER2
+}
+domain: {
+  fqdn: "typhoonstudios.ca"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.typhoonstudios.ca"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dataform.co"
+  tier: TIER2
+}
+domain: {
+  fqdn: "siemplify.co"
+  tier: TIER2
+}
+domain: {
+  fqdn: "fileserv.siemplify.co"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mitre.siemplify.co"
+  tier: TIER2
+}
+domain: {
+  fqdn: "support.siemplify.co"
+  tier: TIER2
+}
+domain: {
+  fqdn: "callhome.actifio.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "eps-mx1.actifio.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "eps-mx2.actifio.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "ftp.actifio.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "secureconnect0.actifio.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "secureconnect2.actifio.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "app.alooma.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "app-staging.alooma.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "login.alooma.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "appsheet.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "breezometer.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "developers.breezometer.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.breezometer.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "chunkedswarm.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mailhost.cloudsimple.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.deepmind.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "bronze-eagle.gcp.elastifile.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sc-bronze-eagle.gcp.elastifile.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sc-silver-eagle.gcp.elastifile.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sc-cloud-file-service-gcp.elastifile.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.elastifile.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "beta.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "coach.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "fiori-test.corp.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "corporate.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dev.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "fieldtesting.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "gam.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.help.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "hub.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "ifttt.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "investor.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "investors.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "jira.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "orders.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pulse.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "snapdragon-ws.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "store.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "stories.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "studio.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "email.subscriptions.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.fitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "globalweathercorp.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "api.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "cf-mysight.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "docs.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "docs-staging.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "drop.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "info.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mysight.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "prod-candidate.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "threatscape.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tsapi-stg.isightpartners.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "integrations.mandiant.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "lab.mandiant.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "selling.mandiant.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "npk.services.mandiant.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "update.validation.mandiant.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "alexa.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "alx-api.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "auth.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "certified.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "certified-legacy.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "contact.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "console.developers.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "logsink.devices.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "downloads.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "enterprise.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "entitle.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "console.developers.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "enterprise.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "entitle.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "frontdoor-aws.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "grpc-web.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "logsink.home.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "transport.home.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "frontdoor.srt01.iad01.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "enterprise.web01.iad01.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "marketing-cms.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "offers.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "phoenixapi-us.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "squeakydoor.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "store.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "data-export-api.store.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "integration.store.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "welcome.ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "logsink.home.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "transport.home.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "home-assistant.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "hvac-diag.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "marketing-cms.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "offers.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pro.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "appfe-http2-global-lb.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "energytraits.energy.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "frontdoor-aws.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "frontdoor-weighted.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "grpc-web.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "frontdoor.srt01.iad01.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pro.web01.iad01.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "vaventurine.web01.iad01.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "phoenixapi.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "phoenixapi-eu.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "rubyfe-grpc-global-lb.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "wtfe.weave.production.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "squeakydoor.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "store.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "data-export-api.store.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "integration.store.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "support.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "welcome.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "wwn-api.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "wwn-api-ft.nest.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "bamboo-ui.nestlabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dynamic-swarm175.rts-test01.iad02.build.nestlabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "coverity.nestlabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dfa.nestlabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "images-ui.nestlabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "jenkins-embedded.nestlabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "jira.nestlabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "stash-ui.nestlabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "gitlab.neverware.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dadp.photomath.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dbhapi.photomath.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dninjask.photomath.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dpcapi.photomath.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "savageplanetgame.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "inv.semihalf.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "somosfitbit.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "api.stratozone.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "labs.stratozone.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "portal.stratozone.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "preview.stratozone.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "stage.stratozone.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.stratozone.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www-stage.stratozone.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "portal.strivecast.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "typhoonstudios.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.typhoonstudios.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "update.verodinservices.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "beta.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "forum.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "inbox.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "inbox-g-am.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "inbox-na.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mobile-web.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mobile-web-new.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "rtproxy-am-gcp.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "rtproxy-row-gcp.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "status.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "storagegateway-am.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "storagegateway-il.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "storagegateway-na.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "storagegateway-row.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "voice-prompts.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "wazeopedia.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "wiki.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mobile-web-new.world.waze.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "phoenixapi-us.production.nest.com	"
+  tier: TIER2
+}
+domain: {
+  fqdn: "frontdoor-weighted.ft.nest.comm"
+  tier: TIER2
+}
+domain: {
+  fqdn: "freemap.co.il"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mobile-web-new.waze.co.il"
+  tier: TIER2
+}
+domain: {
+  fqdn: " mobile-web-new.world.waze.co.il"
+  tier: TIER2
+}
+domain: {
+  fqdn: "whereismytrain.in"
+  tier: TIER2
+}
+domain: {
+  fqdn: "artifactory.cpie.io"
+  tier: TIER2
+}
+domain: {
+  fqdn: "msv-ci.cpie.io"
+  tier: TIER2
+}
+domain: {
+  fqdn: "strivetech.io"
+  tier: TIER2
+}
+domain: {
+  fqdn: "development.www.pring.jp"
+  tier: TIER2
+}
+domain: {
+  fqdn: "staging.www.pring.jp"
+  tier: TIER2
+}
+domain: {
+  fqdn: "callhome.actifio.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "wipeout.apigeeks.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "acp.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "adp.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "bhapi.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dadp.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dbhapi.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dninjask.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dpdimages.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dqapdimages.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "drip.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "horsea.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "json.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "ninjask.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pdimages.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pws.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tadp.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tninjask.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tpdimages.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tpws.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tqapdimages.photomath.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "marmostudio.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "voiceux.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "botsociety.cc"
+  tier: TIER3
+}
+domain: {
+  fqdn: "designthefuture.cc"
+  tier: TIER3
+}
+domain: {
+  fqdn: "voiceux.cc"
+  tier: TIER3
+}
+domain: {
+  fqdn: "voiceux.club"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fpat.co"
+  tier: TIER3
+}
+domain: {
+  fqdn: "payables.co"
+  tier: TIER3
+}
+domain: {
+  fqdn: "voiceux.co"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wimt.co"
+  tier: TIER3
+}
+domain: {
+  fqdn: "actifio.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "docs.actifio.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "download.actifio.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wp1.actifio.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www.actifio.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "actifiogo.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "inputs.alooma.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "compass.apigee.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "about.appsheet.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "aqi-info.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "bbportals.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "botsociety.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "docs.breezometer.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "bynorth.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cloudpebble.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "az-westus-maas.cloudsimple.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "staging.cloudsimple.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "tenant.cloudsimple.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "design-thefuture.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "doki.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "email.careers.elastifile.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "iron-eagle.gcp.elastifile.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "registry.gcp.elastifile.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "silver-eagle.gcp.elastifile.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "partners.elastifile.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "register.elastifile.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "techhub.elastifile.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "api.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "assets.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "athena.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "badges.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cache.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "calendar.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "canaryapi.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "canarywww.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cftest.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "connect.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "contact.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "content.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "developer.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "device.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "device101.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "directsearch.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "drive.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "e.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "em1323.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "em4713.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "em8269.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "em8295.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "em900.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "email.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "eng.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "entelotrack.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "events.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "experiments.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "ext.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "firmwareci.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitforgood.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fsc.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fw.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gallery.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gallery-webview.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gapps.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "google312587ef093f9031.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "groups.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gsemail.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gslink.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gstest.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "guccy.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "healthsolutions.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "healthypet.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "iedc.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "img0.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "img1.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "img2.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "img3.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "infraweb.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "int.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "internal.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "jenkins.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "jobs.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "link.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "list.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "logs.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "m.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "mail.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "marcopoller.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "marketing.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "mp.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "msoid.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "owa.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pages.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "partners.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "plus.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "press.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pulsedam.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa1accounts.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa1app3.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa1app4.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa1fsc.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2accounts.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2app001corporate.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2app002corporate.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2app3.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2app4.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2corporate.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2directsearch.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2marketing.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2snappea.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2store-au.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2store-nz.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa2synclair.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qaapp001corporate.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qaapp002corporate.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qacorporate.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qadirectserch.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qamarketing.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qasinclair.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qasnappea.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "quidfaf7.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "rogerchallenger.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "ses.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "sherlockholmesboarding.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "snappea.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "source.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "src.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "stage.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static0.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static2.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static3.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static4.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static5.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static6.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static7.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static8.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "static9.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "staticcs.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "status.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "store-au.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "store-in.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "store-nz.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "subscriptions.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "support.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "synclair.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wellness.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wiki.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "windchill.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wwwinternal.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "y.fitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbit-devel.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbit-int.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbit-perf.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbit-pluto.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbit-stage.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbitcaptivate.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbitcompetitions.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbitdevelopercontent.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbithealthsolutions.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbitqa.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbitstatus.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbittv.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbitusercontent.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "support.getmyo.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "getpebble.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gofitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "hellopebble.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "idahoedtrends.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "kaggle.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "korulab.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "kyschoolreportcard.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "livehealthysg.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "api-intelligence-staging.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dev.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dev-advantage.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "docs.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "api-staging.intelligence.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "loginstage.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "mdstage.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "msv-portal-test.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "plextrac-dev.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "portal-ng.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "portal-ng-usonly.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pre-prod-advantage.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qa-advantage.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "stage.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "stg-advantage.mandiant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "developerblog.myo.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "navigator.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "resource-gateway.api.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cellular-coverage.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "resource-gateway.api.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "appfe-http2-global-lb.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "auth.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "logsink.devices.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "energytraits.energy.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "nexusapi-eu1-ft.camera.home.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "nexusapi-us1-ft.camera.home.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "webapi.camera.home.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fleet-test.home.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "home-assistant.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "hvac-diag.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "phoenixapi.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "phoenixapi-cam.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "phoenixapi-eu.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "rubyfe-grpc-global-lb.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fulfillment-service.store.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wallet-service.store.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "video.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wtfe.weave.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "widgets.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www-apps.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www-apps2.ft.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "marketing-assets.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "resizer.web01.iad01.production.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "resizer.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "updates.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "video.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "widgets.nest.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "grafana.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "grafana-v2.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "nssbridge.nest-sec.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "thirdparty.ops.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "penja-tools.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "repos.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "server-logs.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "testrail.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wiki.nestlabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "neverware.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "jenkins.neverware.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebble.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebble-sockets.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebblecasts.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebblecorp.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebblehacks.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebbleinstant.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebblesnap.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebbletimesmartwatch.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "photomath.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dpws.photomath.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "drapi.photomath.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dttsp.photomath.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "raxium.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "revolv.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "semihalf.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www.socratic.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "stratozone.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "strivecast.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "twinehealth.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "twinehealthapp.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "vehiclesw.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "designcompose.vehiclesw.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www.vehiclesw.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "avs-control.virustotal.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cloud.virustotal.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "whereismytrain.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "whereswereware.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "widevine.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wwwfitbit.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "appfe.ft.nest.com	"
+  tier: TIER3
+}
+domain: {
+  fqdn: "appfe-http2-global-lb.ft.nest.com:8080"
+  tier: TIER3
+}
+domain: {
+  fqdn: "marmo.design"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbit.com.es"
+  tier: TIER3
+}
+domain: {
+  fqdn: "botsociety.eu"
+  tier: TIER3
+}
+domain: {
+  fqdn: "botsociety.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "btsc.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cdap.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cs.cloudsimple.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "ops.cloudsimple.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "test.cloudsimple.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cpbl.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dev-web.pring.jp"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dev-www.pring.jp"
+  tier: TIER3
+}
+domain: {
+  fqdn: "future-web.pring.jp"
+  tier: TIER3
+}
+domain: {
+  fqdn: "future-www.pring.jp"
+  tier: TIER3
+}
+domain: {
+  fqdn: "web.pring.jp"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www.actifio.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "e2e.apigee.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cloudpebble.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbitcloud.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fitbitiam.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "idahoedtrends.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dggb-frame.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dpws.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "drapi.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "drestrict.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dsfc.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dttsp.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pdttsp.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pttsp.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "ptttsp.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "rapi.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "restrict.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "s.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "sfc.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "share.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "trapi.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "trestrict.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "tsfc.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "ttsp.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "tttsp.photomath.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "peanut.sproute.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "botsociety.online"
+  tier: TIER3
+}
+domain: {
+  fqdn: "conversationdesign.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "idahoedtrends.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebbledev.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www.vespr.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "livehealthysg.sg"
+  tier: TIER3
+}
+domain: {
+  fqdn: "vehicle.software"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fusa.vehicle.software"
+  tier: TIER3
+}
+domain: {
+  fqdn: "www.vehicle.software"
+  tier: TIER3
+}
+domain: {
+  fqdn: "play.space"
+  tier: TIER3
+}
+domain: {
+  fqdn: "aspen.team"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebble.technology"
+  tier: TIER3
+}
+domain: {
+  fqdn: "botsociety.tv"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pebble.watch"
+  tier: TIER3
+}
+domain: {
+  fqdn: "_validate_domain.spaceship.airforce"
+  tier: TIER4
+}
+domain: {
+  fqdn: "deepmind.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cpanel.deepmind.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "deepmind.deepmind.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ftp.deepmind.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "team.deepmind.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "webdisk.deepmind.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "webmail.deepmind.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "whm.deepmind.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "virtualappdelivery.co"
+  tier: TIER4
+}
+domain: {
+  fqdn: "calendar.1track.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "docs.1track.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mail.1track.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cdn.alooma.com"  # cloudfront AWS
+  tier: TIER4
+}
+domain: {
+  fqdn: "help.alooma.com"  # salesforce
+  tier: TIER4
+}
+domain: {
+  fqdn: "www.alooma.com"  # heroku
+  tier: TIER4
+}
+domain: {
+  fqdn: "zendesk.alooma.com"  # zendesk
+  tier: TIER4
+}
+domain: {
+  fqdn: "apidocs.apigee.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "community.apigee.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gstatic.apigee.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "rfp.apigee.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "transform.apigee.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "transform-engine.apigee.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "blog.appsheet.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "community.appsheet.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "help.appsheet.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "solutions.appsheet.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "autodiscover.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "azuresupport.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "blog.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "calendar.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cs-demo.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cs-staging.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "dealreg.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "devtest.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "email.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ftp.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gdrive.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "groups.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "help.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "info.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "lyncdiscover.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "msoid.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "public-preview-portal.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "sip.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "status.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "support.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "track.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "uswest-rp.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "vpn-sv4.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "webmail.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "www.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "zendesk1.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "zendesk2.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "zendesk3.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "zendesk4.cloudsimple.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cosmonioushigh.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cosmonioushighgame.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "www.cosmonioushighgame.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_8810976066ee955c1706fa28929d8f45.crashlytics.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.crashlytics.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_5b420f87491a751dbf21630ec444e691.settings.firebase.crashlytics.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "devops-research.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "digitalworkspacealliance.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "dwealliance.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "dyscourse.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "support.elastifile.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "www.etlacademy.com"  # heroku
+  tier: TIER4
+}
+domain: {
+  fqdn: "community.fitbit.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googlevad.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "jacklumbergame.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "jobsimulatorgame.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "lookersandbox.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mandiant.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "academy.mandiant.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "blog.mandiant.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mwise.mandiant.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "status.nest.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "owlchemylabs.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "owlchemymr.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "owlchemytv.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "owlchemyvr.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "dev.siemplifycloud.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "smplylab.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "smuggletruck.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "snuggletruck.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "socstock.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "socstock2020.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "socstock2021.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "sproute.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "google80798106d763643c.stratozone.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "support.stratozone.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.symmetricinfinity.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "vacationsimulatorgame.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "fusa.vehiclesw.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "virtual-app.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "virtualappdelivery.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "blog.virustotal.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "yara-ci.cloud.virustotal.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "developers.virustotal.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "releases.virustotal.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ads-resources.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ads-resources-legacy.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "adsassets.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "api.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "aptest.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "carpool-groups-images.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "carpool-itinerary-images.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "client-assets.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cres.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cresg.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ctiles.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ctiles-g-am.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ctiles-il.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ctiles-na.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ctiles-row.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ctilesg-il.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ctilesg-row.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "editor-assets.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "email-assets.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "embed.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "frontseat.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gapi.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "il-livemap-tiles1.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "il-livemap-tiles2.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "il-livemap-tiles3.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "il-livemap-tiles4.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "incidents.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "livemap-tiles1.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "livemap-tiles2.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "livemap-tiles3.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "livemap-tiles4.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "movies.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "new-wazeopedia.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "push-assets.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "roadshields.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "roadshieldsap.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "roadshieldssa.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "routing-livemap-am.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "routing-livemap-il.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "routing-livemap-row.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "sdk.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "status-il.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "tilesworld.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "tilesworld1.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "tilesworld2.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "tilesworld3.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "tolls.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "tts.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ttsgw.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "wam-api.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "waze-tiles-new-cdn.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "web-assets.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "web-login-oauth.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ttsgw.world.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "worldtiles1.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "worldtiles2.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "worldtiles3.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "worldtiles4.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "worldtilesnew.waze.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mail-images.wazeads.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gcp.wazestg.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.zeropush.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "service.elastifile.com/"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cameyo.dev"
+  tier: TIER4
+}
+domain: {
+  fqdn: "sonnet.dev"
+  tier: TIER4
+}
+domain: {
+  fqdn: "artifactory.witools.foo"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.codesigning.guide"
+  tier: TIER4
+}
+domain: {
+  fqdn: "www.freemap.co.il"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.answers.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "healthapix.apigee.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "openbank.apigee.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloudsimple.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "adfs.az.cloudsimple.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "zb15350596.devtest.cloudsimple.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "www.cloudsimple.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.crash.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.fabric.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "virtualappdelivery.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "okta.cloudsimple.it"
+  tier: TIER4
+}
+domain: {
+  fqdn: "opsstatus.cloudsimple.it"
+  tier: TIER4
+}
+domain: {
+  fqdn: "apigee.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googlevad.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "virtualappdelivery.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "digitalworkspacealliance.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "dwealliance.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "blog.socratic.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "virtualappdelivery.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "enterpriseenrollment.vehicle.software"
+  tier: TIER4
+}
+domain: {
+  fqdn: "enterpriseregistration.vehicle.software"
+  tier: TIER4
+}
+domain: {
+  fqdn: "lyncdiscover.vehicle.software"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.betas.to"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.crashes.to"
+  tier: TIER4
+}
+domain: {
+  fqdn: "_validate_domain.fastlane.tools"
+  tier: TIER4
+}
+domain: {
+  fqdn: "owlchemy.tv"
+  tier: TIER4
+}
+domain: {
   fqdn: "iafwsjwcmh.com"
   tier: TIER1
 }
@@ -765,4 +3685,316 @@ domain: {
 domain: {
   fqdn: "work.webpass.net"
   tier: TIER1
+}
+domain: {
+  fqdn: "gridaware.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "studio.pebble.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "xtapestry.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "xviaduct.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "alphagoteach.deepmind.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "explore.deepmind.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "labs.deepmind.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "fieldbrowser.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "letstalkselfdriving.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sidewalkinc.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sidewalklabs.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "waymo.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "opensky-autopush.wing.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "opensky-staging.wing.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "deepmind.host"
+  tier: TIER2
+}
+domain: {
+  fqdn: "chorussystems.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "jetbridge.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "rpasplatform.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "wingoperations.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "scout.parts"
+  tier: TIER2
+}
+domain: {
+  fqdn: "brand.isolabs.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "mcp.isolabs.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wing.co"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fieldbrowser-dummy-data.appspot.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "calicolabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "capitalg.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "deepmind.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gfsvc.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gv.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "interussplatform.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "isomorphiclabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "seismancer.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "collab.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "commonspace.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dtpr.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "energy.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "hello.gendes.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "oldto.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qvp.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "recycle.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "staging.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "totx.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "transit.sidewalklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dtpr.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "process.dtpr.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "interussplatform.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "jetbridge.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "rpasplatform.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "wing.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "mycomfort.me"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cloudseis.rocks"
+  tier: TIER3
+}
+domain: {
+  fqdn: "isomorphiclab.ai"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclaboratories.ai"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclabs.ai"
+  tier: TIER4
+}
+domain: {
+  fqdn: "trustworthy.ai"
+  tier: TIER4
+}
+domain: {
+  fqdn: "waymo.com.cn"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclab.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclaboratories.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "latentlogic.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ltad.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "wingmerchandisestore.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "webpass.withgoogle.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isolabs.info"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclab.info"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclaboratories.info"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclabs.info"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclab.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclaboratories.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclabs.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isolabs.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclab.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclaboratories.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclabs.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isolabs.co.uk"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclab.co.uk"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclaboratories.co.uk"
+  tier: TIER4
+}
+domain: {
+  fqdn: "isomorphiclabs.co.uk"
+  tier: TIER4
+}
+domain: {
+  fqdn: "morpheuslabs.co.uk"
+  tier: TIER4
 }

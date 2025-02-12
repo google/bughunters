@@ -410,3 +410,1855 @@ domain: {
   fqdn: "orion.google"
   tier: TIER1
 }
+domain: {
+  fqdn: "grasshopper.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "kormo.app"
+  tier: TIER2
+}
+domain: {
+  fqdn: "admob.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "partner.android.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "blogger.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "gfiber.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "360suite.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "aboutme.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "adsdatahub.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "adservice.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "adssettings.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "adviser.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "analytics.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "apis.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "appengine.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "appmaker.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "area120.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "artsandculture.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "audiencecenter.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "automotiveservices.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "books.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "campaignmanager.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "careers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "classroom.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "cloud.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sdk.cloud.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "status.cloud.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "contributor.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "usercontent.corp.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "crowdsource.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "cse.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "datastudio.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "ddm.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "apps.developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "cla.developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "codelabs.developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "payments.developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dns.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "donate.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "doubleclick.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "earth.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "earthengine.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "code.earthengine.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "explorer.earthengine.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "signup.earthengine.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "families.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "fiber.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "console.fiber.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "partnerportal.fiber.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "toolbox.fiber.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "firebase.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "fit.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "flights.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "fonts.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "fusiontables.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "gsuite.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "health.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "images.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "inputtools.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "ipv6test.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "isp.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "jamboard.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "keep.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "manufacturers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "maps.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "merchants.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "microhost.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "news.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "newsstand.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "ondemandplatform.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "optimize.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "panelresearch.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "partnerdash.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "patents.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "plus.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "plusone.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "poly.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "postmaster.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "productforums.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "profiles.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "recorder.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "colab.research.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sandbox.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "santatracker.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "scholar.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "shoppinglist.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "speech.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "studykit.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "supplierhub.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "supplychain.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "support.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "surveys.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tagmanager.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tools.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "translate.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "trends.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "usercontent.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "script.usercontent.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "video.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "webapps.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "content.googleapis.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "goosbee.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "youtube.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "youtubekids.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "recaptcha.net"
+  tier: TIER2
+}
+domain: {
+  fqdn: "chromium.org"
+  tier: TIER2
+}
+domain: {
+  fqdn: "webrtc.org"
+  tier: TIER2
+}
+domain: {
+  fqdn: "devicecertification.youtube"
+  tier: TIER2
+}
+domain: {
+  fqdn: "area120-olive-tt.appspot.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "avera.area120.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "stack.area120.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "gamesnacks.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "accelerator.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "actions.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "console1.actions.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "adx.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "apps.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "aloud.area120.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "carbonindex.area120.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "checks.area120.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "qaya.area120.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tables.area120.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "assistant.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "atap.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "attribution.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "baraza.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "business.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "cardboard.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "cast.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "console1.cloud.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "datalab.cloud.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "coordinate.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "crome.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "culturalinstitute.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "datally.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "dataly.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "design.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "developer.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "console.developer.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "androidpay.developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "codetheroad.developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "console1.developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "source.developers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "devicemanagement.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "diversity.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "doc.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "staging.docs.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "test.docs.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "docs0.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "docs7.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "goto.ext.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "cbf.vdi.ext.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "cbf1.vdi.ext.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "wave.ext.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "bss.fiber.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "console1.firebase.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "status.firebase.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "goggles.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "goto.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "gradient.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "grow.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "guesttalkgadget.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "hangout.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "help.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "helpouts.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "hire.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "history.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "hostedtalkgadget.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "hotelfinder.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "hotels.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "hotpot.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "instant.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "iot.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "jibe.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "jigsaw.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "jmt17.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "krome.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "maps.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "talk.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "talk6.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "talkx.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "uberproxy.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "uberproxy4.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "uberproxy6.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "xmpp.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "xmppx.l.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "local.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "madeby.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "isolated.mail.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "map.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mapmaker.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mapsengine.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "material.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "maven.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "music.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mybusiness.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "mymaps.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "nexus.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "offers.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "on.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "onetoday.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "opensource.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "partners.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "peering.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "photo.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pixel.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pki.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "places.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "m.plus.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "posts.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pride.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "privacy.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "producer.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "publisherplugin.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "realtime.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "registry.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "research.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "safebrowsing.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sb.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "security.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "selfdrivingcar.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "selfdrivingcars.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sheets.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sidewiki.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sitecontent.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "sitescontent.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "slides.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "spaces.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "spreadsheet.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "spreadsheets.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "spreadsheets5.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "springboard.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "standards.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "startup.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "station.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "pss.support.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "survey.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "talk.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "terrabella.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "tez.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "time.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "time1.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "time2.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "time3.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "time4.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "toolbar.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "transit.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "transparencyreport.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "trustedtester.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "userresearch.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "visualsearch.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "vr.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "weave.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "webapp.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "work.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "workswithnest.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "writely.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "xmpp.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "area120tables.googleapis.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "earthengine.app"
+  tier: TIER3
+}
+domain: {
+  fqdn: "get.app"
+  tier: TIER3
+}
+domain: {
+  fqdn: "youtu.be"
+  tier: TIER3
+}
+domain: {
+  fqdn: "bazel.build"
+  tier: TIER3
+}
+domain: {
+  fqdn: "near.by"
+  tier: TIER3
+}
+domain: {
+  fqdn: "g.cn"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googlecnapps.cn"
+  tier: TIER3
+}
+domain: {
+  fqdn: "g.co"
+  tier: TIER3
+}
+domain: {
+  fqdn: "1emn.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "1enm.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "265.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "2enm.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "3enm.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "8d1f.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "admeld.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "adsense.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "advertisercommunity.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "adwords.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "alphafold.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "android.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "app-measurement.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "area120.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "asp-cc.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "chrome.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "chromecast.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "crbug.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "crossmediapanel.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "e0mn.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "em0n.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "emn0.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "feedburner.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "froogle.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gandalfservice.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gmail.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "golang.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "google-analytics.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googleads.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googleapps.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googleblog.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googlecommerce.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googleoptimize.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googletagmanager.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googletagservices.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "googlevideo.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "hwgo.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "lanternalauth.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "malachiteauth.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "mn0e.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "nn0e.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "picasa.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "picasa-software.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "qwiklabs.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "stadia.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "thinkwithgoogle.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "urchin.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "withgoogle.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "withyoutube.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "yourprimer.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "youtubeeducation.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "youtubego.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "ytimg.com"
+  tier: TIER3
+}
+domain: {
+  fqdn: "appdefensealliance.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "cloudyoryx.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "crosvm.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "deps.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "flutter.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "fuchsia.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "get.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "louhi.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "pub.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "tensorboard.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "tfhub.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "web.dev"
+  tier: TIER3
+}
+domain: {
+  fqdn: "restor.eco"
+  tier: TIER3
+}
+domain: {
+  fqdn: "goo.gl"
+  tier: TIER3
+}
+domain: {
+  fqdn: "gle"
+  tier: TIER3
+}
+domain: {
+  fqdn: "goog"
+  tier: TIER3
+}
+domain: {
+  fqdn: "google"
+  tier: TIER3
+}
+domain: {
+  fqdn: "k8s.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "openthread.io"
+  tier: TIER3
+}
+domain: {
+  fqdn: "addin.meet"
+  tier: TIER3
+}
+domain: {
+  fqdn: "d.meet"
+  tier: TIER3
+}
+domain: {
+  fqdn: "dial.meet"
+  tier: TIER3
+}
+domain: {
+  fqdn: "t.meet"
+  tier: TIER3
+}
+domain: {
+  fqdn: "tel.meet"
+  tier: TIER3
+}
+domain: {
+  fqdn: "ampproject.net"
+  tier: TIER3
+}
+domain: {
+  fqdn: "youtube.co.nl"
+  tier: TIER3
+}
+domain: {
+  fqdn: "ampproject.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "brotli.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "datacommons.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "godoc.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "golang.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "google.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "schema.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "skia.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "test.webrtc.org"
+  tier: TIER3
+}
+domain: {
+  fqdn: "business.page"
+  tier: TIER3
+}
+domain: {
+  fqdn: "g.page"
+  tier: TIER3
+}
+domain: {
+  fqdn: "google.com.ru"
+  tier: TIER3
+}
+domain: {
+  fqdn: "business.site"
+  tier: TIER3
+}
+domain: {
+  fqdn: "abc.xyz"
+  tier: TIER3
+}
+domain: {
+  fqdn: "youtube"
+  tier: TIER3
+}
+domain: {
+  fqdn: "create.meme"
+  tier: TIER3
+}
+domain: {
+  fqdn: "find.meme"
+  tier: TIER3
+}
+domain: {
+  fqdn: "make.meme"
+  tier: TIER3
+}
+domain: {
+  fqdn: "meme.meme"
+  tier: TIER3
+}
+domain: {
+  fqdn: "new.meme"
+  tier: TIER3
+}
+domain: {
+  fqdn: "search.meme"
+  tier: TIER3
+}
+domain: {
+  fqdn: "tenor.meme"
+  tier: TIER3
+}
+domain: {
+  fqdn: "upload.meme"
+  tier: TIER3
+}
+domain: {
+  fqdn: "adscape.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "en.advertisercommunity.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "appspot.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "blogblog.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "blogspot.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "bp.blogspot.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ccaiplatform.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloudconnectcommunity.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "clouddataprep.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "contributorscommunity.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "feedproxy.feedburner.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "feeds.feedburner.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "feeds2.feedburner.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "freebaseapps.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ggpht.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gmodules.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googleadservices.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googleapis.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "corp.googleapis.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mtls.googleapis.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "sandbox.googleapis.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "storage.googleapis.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "storage-p2.googleapis.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googleapis-cn.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googlecode.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googledrive.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "connect.googleforwork.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googlegroups.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googlemerchandisestore.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "www.googlenestcommunity.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googlesyndication.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googlesyndication-cn.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googletraveladservices.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googleusercontent.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "corp.googleusercontent.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googleweblight.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gstatic.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gstatic-cn.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gvt1.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gvt2.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gvt3.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "lanternal.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "localguidesconnect.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "community.nest.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "training.nest.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "nianticlabs.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "polar.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "sketchup.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "skybox.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "skyboximaging.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "terrabella.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "terrabellatech.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "youtube-3rd-party.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "youtube-creatorcommunity.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "youtube-education.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "youtube-nocookie.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "zagat.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "dailydeal.de"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloudshell.dev"
+  tier: TIER4
+}
+domain: {
+  fqdn: "pkg.dev"
+  tier: TIER4
+}
+domain: {
+  fqdn: "app.goo.gl"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloud.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloud-staging.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloud-test.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloudconnect.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "podcasts.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "feeds.podcasts.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "translate.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "usercontent.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "sandbox.usercontent.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "scf.usercontent.goog"
+  tier: TIER4
+}
+domain: {
+  fqdn: "adtrafficquality.google"
+  tier: TIER4
+}
+domain: {
+  fqdn: "app.google"
+  tier: TIER4
+}
+domain: {
+  fqdn: "go.google"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gcr.io"
+  tier: TIER4
+}
+domain: {
+  fqdn: "page.link"
+  tier: TIER4
+}
+domain: {
+  fqdn: "2mdn.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "2mdn-cn.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "dartsearch.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "doubleclick.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ad.doubleclick.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "fls.doubleclick.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googleads.g.doubleclick.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "m.doubleclick.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "motifcdn2.doubleclick.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "doubleclick-cn.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "googlezip.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gcs.sc-cdn.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gcs-p2.sc-cdn.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cdn.ampproject.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cdn-dev.ampproject.org"
+  tier: TIER4
+}
+domain: {
+  fqdn: "tdcommons.org"
+  tier: TIER4
+}
