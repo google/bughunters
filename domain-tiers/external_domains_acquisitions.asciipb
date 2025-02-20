@@ -1435,6 +1435,10 @@ domain: {
   tier: TIER2
 }
 domain: {
+  fqdn: "spectacles.dev"
+  tier: TIER2
+}
+domain: {
   fqdn: "freemap.co.il"
   tier: TIER2
 }
