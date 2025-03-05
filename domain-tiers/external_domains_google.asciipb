@@ -139,6 +139,10 @@ domain: {
   tier: TIER0
 }
 domain: {
+  fqdn: "console.cloud.google"
+  tier: TIER0
+}
+domain: {
   fqdn: "bugs.chromium.org"
   tier: TIER0
 }

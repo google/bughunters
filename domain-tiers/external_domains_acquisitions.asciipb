@@ -3719,10 +3719,6 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: "fieldbrowser.com"
-  tier: TIER2
-}
-domain: {
   fqdn: "letstalkselfdriving.com"
   tier: TIER2
 }
@@ -3780,10 +3776,6 @@ domain: {
 }
 domain: {
   fqdn: "wing.co"
-  tier: TIER3
-}
-domain: {
-  fqdn: "fieldbrowser-dummy-data.appspot.com"
   tier: TIER3
 }
 domain: {
