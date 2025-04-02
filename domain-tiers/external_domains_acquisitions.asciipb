@@ -25,9 +25,22 @@ domain: {
 domain: {
   fqdn: "cameyo.com"
   tier: TIER0
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "marketplace.cameyo.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "online.cameyo.com"
+  tier: TIER0
 }
 domain: {
   fqdn: "azure.cloudsimple.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "dwealliance.com"
   tier: TIER0
 }
 domain: {
@@ -80,6 +93,10 @@ domain: {
 }
 domain: {
   fqdn: "internal.photomath.com"
+  tier: TIER0
+}
+domain: {
+  fqdn: "virtual-app.com"
   tier: TIER0
 }
 domain: {
@@ -195,6 +212,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "adhawkdev.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "apigee.com"
   tier: TIER1
 }
@@ -204,6 +225,26 @@ domain: {
 }
 domain: {
   fqdn: "sense-ui.apigee.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "getip.cameyo.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "kb.cameyo.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "session.cameyo.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "support.cameyo.com"
+  tier: TIER1
+}
+domain: {
+  fqdn: "gwebhook.svc.cameyo.com"
   tier: TIER1
 }
 domain: {
@@ -840,6 +881,10 @@ domain: {
 }
 domain: {
   fqdn: "www.breezometer.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "www.cameyo.com"
   tier: TIER2
 }
 domain: {
@@ -1673,6 +1718,136 @@ domain: {
 domain: {
   fqdn: "tenant.cloudsimple.com"
   tier: TIER3
+}
+domain: {
+  fqdn: "debug.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "bvi.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "bvi.dev.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "fat.dev.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "haw.dev.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "lex.dev.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "mmr.dev.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "pr.dev.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "sin.dev.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "ssf.dev.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "fat.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "haw.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "lex.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "mmr.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "pr.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "bvi.preprod.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "fat.preprod.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "haw.preprod.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "lex.preprod.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "mmr.preprod.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "pr.preprod.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "sin.preprod.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "ssf.preprod.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "sin.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
+}
+domain: {
+  fqdn: "ssf.debugproject.com"
+  tier: TIER3
+  propagate_tier_to_direct_subdomains: true
 }
 domain: {
   fqdn: "design-thefuture.com"
@@ -2883,6 +3058,30 @@ domain: {
   tier: TIER4
 }
 domain: {
+  fqdn: "adhawkmindlinkair.ca"
+  tier: TIER4
+}
+domain: {
+  fqdn: "getmindlink.ca"
+  tier: TIER4
+}
+domain: {
+  fqdn: "getmindlinkair.ca"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mindlinkair.ca"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mindlinkglasses.ca"
+  tier: TIER4
+}
+domain: {
+  fqdn: "adhawk.co"
+  tier: TIER4
+}
+domain: {
   fqdn: "deepmind.co"
   tier: TIER4
 }
@@ -2928,6 +3127,14 @@ domain: {
 }
 domain: {
   fqdn: "mail.1track.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "adhawkmicrosystems.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "adhawkmindlinkair.com"
   tier: TIER4
 }
 domain: {
@@ -2984,6 +3191,10 @@ domain: {
 }
 domain: {
   fqdn: "solutions.appsheet.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "partnerportal.cameyo.com"
   tier: TIER4
 }
 domain: {
@@ -3139,10 +3350,6 @@ domain: {
   tier: TIER4
 }
 domain: {
-  fqdn: "dwealliance.com"
-  tier: TIER4
-}
-domain: {
   fqdn: "dyscourse.com"
   tier: TIER4
 }
@@ -3159,7 +3366,19 @@ domain: {
   tier: TIER4
 }
 domain: {
+  fqdn: "getmindlink.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "getmindlinkair.com"
+  tier: TIER4
+}
+domain: {
   fqdn: "googlevad.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "helpcentercameyo.com"
   tier: TIER4
 }
 domain: {
@@ -3188,6 +3407,18 @@ domain: {
 }
 domain: {
   fqdn: "mwise.mandiant.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mindlinkai.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mindlinkair.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "mindlinkglasses.com"
   tier: TIER4
 }
 domain: {
@@ -3260,10 +3491,6 @@ domain: {
 }
 domain: {
   fqdn: "fusa.vehiclesw.com"
-  tier: TIER4
-}
-domain: {
-  fqdn: "virtual-app.com"
   tier: TIER4
 }
 domain: {
@@ -3556,6 +3783,10 @@ domain: {
 }
 domain: {
   fqdn: "www.freemap.co.il"
+  tier: TIER4
+}
+domain: {
+  fqdn: "adhawk.io"
   tier: TIER4
 }
 domain: {
