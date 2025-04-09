@@ -1492,7 +1492,7 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: " mobile-web-new.world.waze.co.il"
+  fqdn: "mobile-web-new.world.waze.co.il"
   tier: TIER2
 }
 domain: {
