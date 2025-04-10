@@ -299,18 +299,6 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Contact Center Agent Assist
-  tier: Tier 1
-}
-product: {
-  name: Contact Center AI Insights
-  tier: Tier 1
-}
-product: {
-  name: Contact Center AI Platform
-  tier: Tier 1
-}
-product: {
   name: Diagflow
   tier: Tier 1
 }
@@ -980,10 +968,6 @@ product: {
 }
 product: {
   name: Carbon Footprint
-  tier: Tier 3
-}
-product: {
-  name: CCAI Connector
   tier: Tier 3
 }
 product: {
