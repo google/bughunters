@@ -52,6 +52,10 @@ domain: {
   tier: TIER0
 }
 domain: {
+  fqdn: "googleacquisitionmigration.com"
+  tier: TIER0
+}
+domain: {
   fqdn: "de.looker.com"
   tier: TIER0
 }
