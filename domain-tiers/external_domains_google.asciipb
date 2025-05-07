@@ -411,14 +411,6 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "projectshield.withgoogle.com"
-  tier: TIER2
-}
-domain: {
-  fqdn: "projectshield.google"
-  tier: TIER2
-}
-domain: {
   fqdn: "grasshopper.app"
   tier: TIER2
 }
@@ -835,11 +827,19 @@ domain: {
   tier: TIER2
 }
 domain: {
+  fqdn: "projectshield.withgoogle.com"
+  tier: TIER2
+}
+domain: {
   fqdn: "youtube.com"
   tier: TIER2
 }
 domain: {
   fqdn: "youtubekids.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "projectshield.google"
   tier: TIER2
 }
 domain: {
@@ -2248,6 +2248,10 @@ domain: {
 }
 domain: {
   fqdn: "googlezip.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "joonix.net"
   tier: TIER4
 }
 domain: {
