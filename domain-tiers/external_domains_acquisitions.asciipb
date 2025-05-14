@@ -54,6 +54,7 @@ domain: {
 domain: {
   fqdn: "googleacquisitionmigration.com"
   tier: TIER0
+  propagate_tier_to_direct_subdomains: true
 }
 domain: {
   fqdn: "de.looker.com"
