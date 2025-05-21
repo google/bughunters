@@ -4115,10 +4115,6 @@ domain: {
   tier: TIER3
 }
 domain: {
-  fqdn: "mycomfort.me"
-  tier: TIER3
-}
-domain: {
   fqdn: "cloudseis.rocks"
   tier: TIER3
 }
