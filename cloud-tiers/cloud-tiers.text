@@ -299,6 +299,14 @@ product: {
   tier: Tier 1
 }
 product: {
+  name: Contact Center Agent Assist
+  tier: Tier 1
+}
+product: {
+  name: Contact Center AI Insights
+  tier: Tier 1
+}
+product: {
   name: Diagflow
   tier: Tier 1
 }
