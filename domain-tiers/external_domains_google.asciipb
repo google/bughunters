@@ -1027,6 +1027,10 @@ domain: {
   tier: TIER2
 }
 domain: {
+  fqdn: "lti.drive.google.com"
+  tier: TIER2
+}
+domain: {
   fqdn: "goto.ext.google.com"
   tier: TIER2
 }
@@ -1052,6 +1056,10 @@ domain: {
 }
 domain: {
   fqdn: "status.firebase.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "lti.gemini.google.com"
   tier: TIER2
 }
 domain: {
@@ -1200,6 +1208,10 @@ domain: {
 }
 domain: {
   fqdn: "maven.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "lti.meet.google.com"
   tier: TIER2
 }
 domain: {
@@ -1444,6 +1456,10 @@ domain: {
 }
 domain: {
   fqdn: "work.google.com"
+  tier: TIER2
+}
+domain: {
+  fqdn: "lti.workspace.google.com"
   tier: TIER2
 }
 domain: {
