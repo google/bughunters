@@ -207,10 +207,6 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Looker
-  tier: Tier 1
-}
-product: {
   name: Cloud Natural Language API
   tier: Tier 1
 }
@@ -307,11 +303,11 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Diagflow
+  name: Conversational Agents
   tier: Tier 1
 }
 product: {
-  name: Diagflow CX
+  name: Dialogflow
   tier: Tier 1
 }
 product: {
@@ -332,46 +328,6 @@ product: {
 }
 product: {
   name: Healthcare Data Engine
-  tier: Tier 1
-}
-product: {
-  name: Looker
-  tier: Tier 1
-}
-product: {
-  name: Looker Android
-  tier: Tier 1
-}
-product: {
-  name: Looker iOS
-  tier: Tier 1
-}
-product: {
-  name: Looker Mobile
-  tier: Tier 1
-}
-product: {
-  name: Looker Studio
-  tier: Tier 1
-}
-product: {
-  name: Looker Studio
-  tier: Tier 1
-}
-product: {
-  name: Looker Studio Android
-  tier: Tier 1
-}
-product: {
-  name: Looker Studio IOS
-  tier: Tier 1
-}
-product: {
-  name: Looker Studio Mobile
-  tier: Tier 1
-}
-product: {
-  name: Looker Studio Pro
   tier: Tier 1
 }
 product: {
@@ -639,10 +595,6 @@ product: {
   tier: Tier 3
 }
 product: {
-  name: Cloud Dialogflow
-  tier: Tier 3
-}
-product: {
   name: Managed Services Fee
   tier: Tier 3
 }
@@ -660,6 +612,42 @@ product: {
 }
 product: {
   name: Firebase Test Lab
+  tier: Tier 3
+}
+product: {
+  name: Looker
+  tier: Tier 3
+}
+product: {
+  name: Looker Android
+  tier: Tier 3
+}
+product: {
+  name: Looker iOS
+  tier: Tier 3
+}
+product: {
+  name: Looker Mobile
+  tier: Tier 3
+}
+product: {
+  name: Looker Studio
+  tier: Tier 3
+}
+product: {
+  name: Looker Studio Android
+  tier: Tier 3
+}
+product: {
+  name: Looker Studio IOS
+  tier: Tier 3
+}
+product: {
+  name: Looker Studio Mobile
+  tier: Tier 3
+}
+product: {
+  name: Looker Studio Pro
   tier: Tier 3
 }
 product: {
