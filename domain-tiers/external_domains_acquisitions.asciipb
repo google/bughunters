@@ -3199,10 +3199,6 @@ domain: {
   tier: TIER4
 }
 domain: {
-  fqdn: "partnerportal.cameyo.com"
-  tier: TIER4
-}
-domain: {
   fqdn: "cloudsimple.com"
   tier: TIER4
 }
