@@ -179,6 +179,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "adsense.google.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "adwords.google.com"
   tier: TIER1
 }
