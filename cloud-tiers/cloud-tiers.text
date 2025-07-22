@@ -531,10 +531,6 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: GPUs
-  tier: Tier 2
-}
-product: {
   name: Cloud Monitoring
   tier: Tier 2
 }
@@ -583,10 +579,6 @@ product: {
   tier: Tier 3
 }
 product: {
-  name: Network Other
-  tier: Tier 3
-}
-product: {
   name: Legacy AI Platform
   tier: Tier 3
 }
@@ -596,10 +588,6 @@ product: {
 }
 product: {
   name: Managed Services Fee
-  tier: Tier 3
-}
-product: {
-  name: VM Image Storage
   tier: Tier 3
 }
 product: {
@@ -831,18 +819,6 @@ product: {
   tier: Tier 3
 }
 product: {
-  name: A2
-  tier: Tier 3
-}
-product: {
-  name: A2+
-  tier: Tier 3
-}
-product: {
-  name: A3
-  tier: Tier 3
-}
-product: {
   name: Access Context Manager
   tier: Tier 3
 }
@@ -912,10 +888,6 @@ product: {
 }
 product: {
   name: Audit Manager
-  tier: Tier 3
-}
-product: {
-  name: Balanced persistent disks
   tier: Tier 3
 }
 product: {
@@ -1211,10 +1183,6 @@ product: {
   tier: Tier 3
 }
 product: {
-  name: Extreme persistent disks
-  tier: Tier 3
-}
-product: {
   name: Firebase Analytics
   tier: Tier 3
 }
@@ -1268,10 +1236,6 @@ product: {
 }
 product: {
   name: Firewall Insights
-  tier: Tier 3
-}
-product: {
-  name: G2
   tier: Tier 3
 }
 product: {
@@ -1340,10 +1304,6 @@ product: {
 }
 product: {
   name: Google Cloud Console (Original)
-  tier: Tier 3
-}
-product: {
-  name: Google Cloud Hyperdisk
   tier: Tier 3
 }
 product: {
@@ -1420,10 +1380,6 @@ product: {
 }
 product: {
   name: Jurisdictional Cloud Console - US
-  tier: Tier 3
-}
-product: {
-  name: K80
   tier: Tier 3
 }
 product: {
@@ -1575,23 +1531,11 @@ product: {
   tier: Tier 3
 }
 product: {
-  name: P100
-  tier: Tier 3
-}
-product: {
-  name: P4
-  tier: Tier 3
-}
-product: {
   name: Parallelstore
   tier: Tier 3
 }
 product: {
   name: Payment Gateway
-  tier: Tier 3
-}
-product: {
-  name: Performance (SSD) persistent disks
   tier: Tier 3
 }
 product: {
@@ -1747,15 +1691,7 @@ product: {
   tier: Tier 3
 }
 product: {
-  name: Standard persistent disks
-  tier: Tier 3
-}
-product: {
   name: Standard Tier
-  tier: Tier 3
-}
-product: {
-  name: T4
   tier: Tier 3
 }
 product: {
@@ -1816,10 +1752,6 @@ product: {
 }
 product: {
   name: Unified Maintenance
-  tier: Tier 3
-}
-product: {
-  name: V100
   tier: Tier 3
 }
 product: {
