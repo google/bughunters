@@ -1331,14 +1331,6 @@ product: {
   tier: Tier 3
 }
 product: {
-  name: Google Cloud Armor Enterprise
-  tier: Tier 3
-}
-product: {
-  name: Google Cloud Armor Standard
-  tier: Tier 3
-}
-product: {
   name: Google Cloud Console (Original)
   tier: Tier 3
 }
