@@ -995,14 +995,6 @@ product: {
   tier: Tier 3
 }
 product: {
-  name: Cloud Build (1st Gen)
-  tier: Tier 3
-}
-product: {
-  name: Cloud Build (2nd Gen)
-  tier: Tier 3
-}
-product: {
   name: Cloud Code
   tier: Tier 3
 }
