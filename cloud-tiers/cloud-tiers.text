@@ -171,7 +171,7 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Pantheon
+  name: Cloud Console
   tier: Tier 1
 }
 product: {
@@ -1336,10 +1336,6 @@ product: {
 }
 product: {
   name: Google Cloud Armor Standard
-  tier: Tier 3
-}
-product: {
-  name: Google Cloud Console (Original)
   tier: Tier 3
 }
 product: {
