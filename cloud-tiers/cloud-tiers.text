@@ -331,10 +331,6 @@ product: {
   tier: Tier 1
 }
 product: {
-  name: Monarch
-  tier: Tier 1
-}
-product: {
   name: Passthrough Network Load Balancer
   tier: Tier 1
 }
