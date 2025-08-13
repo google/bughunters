@@ -1361,31 +1361,7 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: "api.stratozone.com"
-  tier: TIER2
-}
-domain: {
-  fqdn: "labs.stratozone.com"
-  tier: TIER2
-}
-domain: {
-  fqdn: "portal.stratozone.com"
-  tier: TIER2
-}
-domain: {
-  fqdn: "preview.stratozone.com"
-  tier: TIER2
-}
-domain: {
-  fqdn: "stage.stratozone.com"
-  tier: TIER2
-}
-domain: {
   fqdn: "www.stratozone.com"
-  tier: TIER2
-}
-domain: {
-  fqdn: "www-stage.stratozone.com"
   tier: TIER2
 }
 domain: {
