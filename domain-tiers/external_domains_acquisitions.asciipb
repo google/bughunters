@@ -3979,7 +3979,35 @@ domain: {
   tier: TIER3
 }
 domain: {
+  fqdn: "idaware-demo.isolabs.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "isodb-specs.isolabs.ai"
+  tier: TIER3
+}
+domain: {
   fqdn: "mcp.isolabs.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "molcraft-explore.isolabs.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "portal.isolabs.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "portal-dev.isolabs.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "portal-staging.isolabs.ai"
+  tier: TIER3
+}
+domain: {
+  fqdn: "xd-hub.isolabs.ai"
   tier: TIER3
 }
 domain: {
@@ -4091,31 +4119,11 @@ domain: {
   tier: TIER3
 }
 domain: {
-  fqdn: "isomorphiclab.ai"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclaboratories.ai"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclabs.ai"
-  tier: TIER4
-}
-domain: {
   fqdn: "trustworthy.ai"
   tier: TIER4
 }
 domain: {
   fqdn: "waymo.com.cn"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclab.com"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclaboratories.com"
   tier: TIER4
 }
 domain: {
@@ -4132,66 +4140,6 @@ domain: {
 }
 domain: {
   fqdn: "webpass.withgoogle.com"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isolabs.info"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclab.info"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclaboratories.info"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclabs.info"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclab.net"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclaboratories.net"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclabs.net"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isolabs.org"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclab.org"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclaboratories.org"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclabs.org"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isolabs.co.uk"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclab.co.uk"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclaboratories.co.uk"
-  tier: TIER4
-}
-domain: {
-  fqdn: "isomorphiclabs.co.uk"
   tier: TIER4
 }
 domain: {

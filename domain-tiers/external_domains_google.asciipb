@@ -31,6 +31,10 @@ domain: {
   tier: TIER0
 }
 domain: {
+  fqdn: "accounts.cloud.google.com"
+  tier: TIER0
+}
+domain: {
   fqdn: "console.cloud.google.com"
   tier: TIER0
 }
