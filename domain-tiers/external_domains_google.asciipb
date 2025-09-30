@@ -1779,10 +1779,6 @@ domain: {
   tier: TIER3
 }
 domain: {
-  fqdn: "restor.eco"
-  tier: TIER3
-}
-domain: {
   fqdn: "goo.gl"
   tier: TIER3
 }
