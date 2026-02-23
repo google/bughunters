@@ -2013,6 +2013,10 @@ domain: {
   tier: TIER4
 }
 domain: {
+  fqdn: "hybrid.googleapis.com"
+  tier: TIER4
+}
+domain: {
   fqdn: "mtls.googleapis.com"
   tier: TIER4
 }
