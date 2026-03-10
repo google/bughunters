@@ -757,6 +757,14 @@ domain: {
   tier: TIER2
 }
 domain: {
+  fqdn: "corpusant.ai"
+  tier: TIER2
+}
+domain: {
+  fqdn: "producer.ai"
+  tier: TIER2
+}
+domain: {
   fqdn: "ordering.app"
   tier: TIER2
 }
@@ -1317,6 +1325,10 @@ domain: {
   tier: TIER2
 }
 domain: {
+  fqdn: "riffusion.com"
+  tier: TIER2
+}
+domain: {
   fqdn: "savageplanetgame.com"
   tier: TIER2
 }
@@ -1446,6 +1458,10 @@ domain: {
 }
 domain: {
   fqdn: "whereismytrain.in"
+  tier: TIER2
+}
+domain: {
+  fqdn: "riff.ing"
   tier: TIER2
 }
 domain: {
@@ -3259,6 +3275,10 @@ domain: {
   tier: TIER4
 }
 domain: {
+  fqdn: "corpusants.com"
+  tier: TIER4
+}
+domain: {
   fqdn: "cosmonioushigh.com"
   tier: TIER4
 }
@@ -3380,6 +3400,10 @@ domain: {
 }
 domain: {
   fqdn: "owlchemyvr.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "riffusionlabs.com"
   tier: TIER4
 }
 domain: {
@@ -3788,6 +3812,10 @@ domain: {
 }
 domain: {
   fqdn: "virtualappdelivery.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "radio.new"
   tier: TIER4
 }
 domain: {
