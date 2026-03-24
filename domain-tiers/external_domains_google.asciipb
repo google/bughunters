@@ -423,6 +423,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "wiz.io"
+  tier: TIER1
+}
+domain: {
   fqdn: "grasshopper.app"
   tier: TIER2
 }
