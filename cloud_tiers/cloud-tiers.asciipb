@@ -92,11 +92,6 @@ product {
   hostnames: "firestore.googleapis.com"
 }
 product {
-  name: "Gemini API"
-  tier: IT1
-  hostnames: "generativelanguage.googleapis.com"
-}
-product {
   name: "GKE Identity Service"
   tier: IT1
 }
@@ -421,6 +416,10 @@ product {
   tier: IT3
 }
 product {
+  name: "Application Design Center"
+  tier: IT3
+}
+product {
   name: "AppSheet"
   tier: IT3
 }
@@ -533,10 +532,6 @@ product {
 }
 product {
   name: "Cloud Scheduler"
-  tier: IT3
-}
-product {
-  name: "Cloud SDK - Client Libraries"
   tier: IT3
 }
 product {
@@ -949,4 +944,8 @@ product {
   name: "Workflows"
   tier: IT3
   hostnames: "workflows.googleapis.com"
+}
+product {
+  name: "Cloud SDK - Client Libraries"
+  tier: IT3B
 }

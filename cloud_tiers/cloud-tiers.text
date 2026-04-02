@@ -1080,7 +1080,7 @@ product: {
 }
 product: {
   name: Cloud SDK - Client Libraries
-  tier: Tier 3
+  tier: Tier 3b
 }
 product: {
   name: Cloud SDK - Google Cloud CLI
