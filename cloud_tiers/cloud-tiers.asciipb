@@ -682,6 +682,10 @@ product {
   tier: IT3
 }
 product {
+  name: "Gemini CLI"
+  tier: IT3
+}
+product {
   name: "GKE on Multi-Cloud"
   tier: IT3
 }
@@ -691,6 +695,10 @@ product {
 }
 product {
   name: "Google Cloud NetApp Volumes"
+  tier: IT3
+}
+product {
+  name: "Google Cloud Networking"
   tier: IT3
 }
 product {
@@ -939,6 +947,11 @@ product {
   name: "Web Risk"
   tier: IT3
   hostnames: "webrisk.googleapis.com"
+}
+product {
+  name: "Wiz"
+  tier: IT3
+  hostnames: "wiz.io"
 }
 product {
   name: "Workflows"

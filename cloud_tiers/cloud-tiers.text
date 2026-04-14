@@ -472,7 +472,7 @@ product: {
 }
 product: {
   name: Vertex AI Translation Hub
-  tier: Tier 1
+  tier: Tier 3b
 }
 product: {
   name: Vertex AI Vector Search
@@ -1237,6 +1237,10 @@ product: {
 product: {
   name: Firebase Extensions
   tier: Tier 3
+}
+product: {
+  name: Firebase Studio
+  tier: Tier 3b
 }
 product: {
   name: Firebase Hosting
