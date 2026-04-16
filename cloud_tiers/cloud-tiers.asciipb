@@ -777,6 +777,7 @@ product {
 product {
   name: "Mandiant Platform"
   tier: IT3
+  hostnames: "*.mandiant.com"
 }
 product {
   name: "Media CDN"
