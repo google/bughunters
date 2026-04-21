@@ -1941,6 +1941,10 @@ domain: {
   tier: TIER3
 }
 domain: {
+  fqdn: "run.app"
+  tier: TIER4
+}
+domain: {
   fqdn: "adscape.com"
   tier: TIER4
 }
@@ -2181,6 +2185,10 @@ domain: {
   tier: TIER4
 }
 domain: {
+  fqdn: "gateway.dev"
+  tier: TIER4
+}
+domain: {
   fqdn: "pkg.dev"
   tier: TIER4
 }
@@ -2254,6 +2262,10 @@ domain: {
 }
 domain: {
   fqdn: "2mdn-cn.net"
+  tier: TIER4
+}
+domain: {
+  fqdn: "cloudfunctions.net"
   tier: TIER4
 }
 domain: {
