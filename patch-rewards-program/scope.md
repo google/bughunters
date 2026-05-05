@@ -109,6 +109,3 @@ Package                                                                         
 ## Tier 2
 
 -   [Projects integrated into OSS-Fuzz](https://github.com/google/oss-fuzz/tree/master/projects)
-    (also see the
-    [OSS-Fuzz Rewards program rules](https://bughunters.google.com/about/rules/5097259337383936)
-    for more information)
