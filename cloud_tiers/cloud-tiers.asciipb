@@ -612,6 +612,13 @@ product {
   tier: IT3
 }
 product {
+  name: "Data Studio"
+  tier: IT3
+  variants: "Looker Studio Free"
+  variants: "Looker Studio Pro"
+  hostnames: "datastudio.google.com"
+}
+product {
   name: "Database Migration Service"
   tier: IT3
   hostnames: "datamigration.googleapis.com"
@@ -745,6 +752,8 @@ product {
 product {
   name: "Looker (Google Cloud core)"
   tier: IT3
+  hostnames: "looker-pa.googleapis.com"
+  hostnames: "looker.googleapis.com"
 }
 product {
   name: "Looker Mobile"
@@ -752,14 +761,6 @@ product {
 }
 product {
   name: "Looker Mobile (Legacy)"
-  tier: IT3
-}
-product {
-  name: "Looker Studio Free"
-  tier: IT3
-}
-product {
-  name: "Looker Studio Pro"
   tier: IT3
 }
 product {
@@ -810,6 +811,7 @@ product {
 product {
   name: "Next Gen Conversational Agents"
   tier: IT3
+  hostnames: "ces.googleapis.com"
 }
 product {
   name: "NotebookLM"
