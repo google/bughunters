@@ -176,12 +176,12 @@ repository {
 repository {
   url: "https://github.com/cdapio/cdap"
   tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
+  product_vuln_scope: SCOPE_CLOUD_VRP
 }
 repository {
   url: "https://github.com/cdapio/cdap-ui"
   tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
+  product_vuln_scope: SCOPE_CLOUD_VRP
 }
 repository {
   url: "https://github.com/openxla/xla"
@@ -230,6 +230,21 @@ repository {
 }
 repository {
   url: "https://github.com/google/adk-python"
+  tier: TIER_OT1
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
+  url: "https://github.com/google/adk-js"
+  tier: TIER_OT1
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
+  url: "https://github.com/google/adk-go"
+  tier: TIER_OT1
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
+  url: "https://github.com/google/adk-java"
   tier: TIER_OT1
   product_vuln_scope: SCOPE_OSS_VRP
 }
@@ -325,6 +340,26 @@ repository {
 }
 repository {
   url: "https://github.com/dart-lang/build"
+  tier: TIER_OT1
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
+  url: "https://gerrit.googlesource.com/gerrit"
+  tier: TIER_OT1
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
+  url: "https://github.com/keras-team/keras"
+  tier: TIER_OT1
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
+  url: "https://github.com/keras-team/tf-keras"
+  tier: TIER_OT1
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
+  url: "https://gerrit.googlesource.com/gerrit"
   tier: TIER_OT1
   product_vuln_scope: SCOPE_OSS_VRP
 }

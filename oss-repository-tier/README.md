@@ -34,6 +34,8 @@ For more information on tiers and reward amounts, please see
 | https://github.com/tink-crypto/tink-cc               | OT0  |
 | https://github.com/tink-crypto/tink-go               | OT0  |
 | https://github.com/tink-crypto/tink-java             | OT0  |
+| https://gerrit.googlesource.com/gerrit               | OT1  |
+| https://gerrit.googlesource.com/gerrit               | OT1  |
 | https://github.com/Polymer/polymer                   | OT1  |
 | https://github.com/bazelbuild/remote-apis-sdks       | OT1  |
 | https://github.com/cdapio/cdap                       | OT1  |
@@ -46,6 +48,9 @@ For more information on tiers and reward amounts, please see
 | https://github.com/golang/vscode-go                  | OT1  |
 | https://github.com/google-gemini/gemini-cli          | OT1  |
 | https://github.com/google/XNNPACK                    | OT1  |
+| https://github.com/google/adk-go                     | OT1  |
+| https://github.com/google/adk-java                   | OT1  |
+| https://github.com/google/adk-js                     | OT1  |
 | https://github.com/google/adk-python                 | OT1  |
 | https://github.com/google/benchmark                  | OT1  |
 | https://github.com/google/brotli                     | OT1  |
@@ -65,6 +70,8 @@ For more information on tiers and reward amounts, please see
 | https://github.com/googleforgames/agones             | OT1  |
 | https://github.com/googlemaps/android-maps-utils     | OT1  |
 | https://github.com/jax-ml/jax                        | OT1  |
+| https://github.com/keras-team/keras                  | OT1  |
+| https://github.com/keras-team/tf-keras               | OT1  |
 | https://github.com/openxla/xla                       | OT1  |
 | https://github.com/project-oak/oak                   | OT1  |
 | https://github.com/puppeteer/puppeteer               | OT1  |
