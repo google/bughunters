@@ -3971,10 +3971,6 @@ domain: {
   tier: TIER3
 }
 domain: {
-  fqdn: "idaware-demo.isolabs.ai"
-  tier: TIER3
-}
-domain: {
   fqdn: "isodb-specs.isolabs.ai"
   tier: TIER3
 }
