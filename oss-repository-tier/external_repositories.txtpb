@@ -294,7 +294,7 @@ repository {
   product_vuln_scope: SCOPE_OSS_VRP
 }
 repository {
-  url: "https://github.com/puppeteer/puppeteer"
+  url: "https://github.com/ChromeDevTools/chrome-devtools-mcp"
   tier: TIER_OT1
   product_vuln_scope: SCOPE_OSS_VRP
 }
