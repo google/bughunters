@@ -3357,6 +3357,7 @@ domain: {
 domain: {
   fqdn: "mandiant.com"
   tier: TIER4
+  propagate_tier_to_direct_subdomains: true
 }
 domain: {
   fqdn: "academy.mandiant.com"
