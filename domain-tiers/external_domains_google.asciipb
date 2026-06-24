@@ -2328,3 +2328,11 @@ domain: {
   fqdn: "tdcommons.org"
   tier: TIER4
 }
+domain: {
+  fqdn: "cloud.run"
+  tier: TIER4
+}
+domain: {
+  fqdn: "ai.studio"
+  tier: TIER4
+}
