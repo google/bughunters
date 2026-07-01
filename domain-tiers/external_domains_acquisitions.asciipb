@@ -765,6 +765,10 @@ domain: {
   tier: TIER2
 }
 domain: {
+  fqdn: "flowmusic.app"
+  tier: TIER2
+}
+domain: {
   fqdn: "ordering.app"
   tier: TIER2
 }
