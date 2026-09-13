@@ -364,3 +364,9 @@ repository {
   product_vuln_scope: SCOPE_OSS_VRP
 }
 
+repository {
+  url:  "https://github.com"/apache/shiro
+  tier:TIER_1
+  product_vuln_scope:SCOPE_OSS_VRP
+ }
+
