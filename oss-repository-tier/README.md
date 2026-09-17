@@ -53,6 +53,7 @@ For more information on tiers and reward amounts, please see
 | https://github.com/google/adk-go                                        | OT1  |
 | https://github.com/google/adk-java                                      | OT1  |
 | https://github.com/google/adk-js                                        | OT1  |
+| https://github.com/google/adk-kotlin                                    | OT1  |
 | https://github.com/google/adk-python                                    | OT1  |
 | https://github.com/google/benchmark                                     | OT1  |
 | https://github.com/google/brotli                                        | OT1  |

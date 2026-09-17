@@ -244,6 +244,11 @@ repository {
   product_vuln_scope: SCOPE_OSS_VRP
 }
 repository {
+  url: "https://github.com/google/adk-kotlin"
+  tier: TIER_OT1
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
   url: "https://github.com/shaka-project/shaka-player"
   tier: TIER_OT1
   product_vuln_scope: SCOPE_OSS_VRP
