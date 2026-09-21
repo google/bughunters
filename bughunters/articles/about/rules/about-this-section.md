@@ -85,8 +85,7 @@ doubt, report to the
    <td>Security issues affecting the Chrome Browser
 
    </td>
-  <td>Use the Chromium issue tracker <a href="https://issues.chromium.org/issues/new?noWizard=true&component=1363614&template=1922342">submission form</a> <br><br>
-Alternatively, you can report issues via the <a href="/report/vrp">standard form</a> (report to <em>Chrome VRP</em>)
+  <td>Use the <a href="/report/vrp">standard form</a> (report to <em>Chrome VRP</em>)
    </td>
   </tr>
   <tr>
@@ -103,7 +102,6 @@ Alternatively, you can report issues via the <a href="/report/vrp">standard form
 </table>
 
 <br>
-
 
 ## Google & Friends
 
