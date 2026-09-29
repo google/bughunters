@@ -259,6 +259,10 @@ domain: {
   tier: TIER1
 }
 domain: {
+  fqdn: "connected.google.com"
+  tier: TIER1
+}
+domain: {
   fqdn: "docs.google.com"
   tier: TIER1
 }
