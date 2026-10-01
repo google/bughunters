@@ -24,6 +24,8 @@ Currently, the projects in-scope are as follows:
 
 *   **Tier 2**:
     [Projects integrated into OSS-Fuzz](https://github.com/google/oss-fuzz/tree/master/projects)
+    *(Note: Rewards apply to qualifying patches within integrated projects; new
+    project integrations and fuzz harnesses are not eligible).*
 
 ### Qualifying submissions
 
