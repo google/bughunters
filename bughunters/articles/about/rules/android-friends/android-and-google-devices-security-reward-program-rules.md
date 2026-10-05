@@ -43,7 +43,7 @@ window within 90 days are out of scope).*
 device software stack, including but not limited to:
 
 *   Android Open Source Project (AOSP) code
-*   Android TV, WearOS and Android Automotive OS (AAOS)
+*   Android TV, WearOS, Android Automotive OS (AAOS), and GooglebookOS
 *   OEM proprietary code and drivers shipped on eligible devices
 *   The Trusted Execution Environment (TEE), Secure Elements (e.g., Titan M2),
     bootloaders, and device firmware (including SoC, MCU, and radio units)
@@ -393,5 +393,4 @@ To avoid potential conflicts of interest, we will not grant rewards to people
 employed by Google or Google Partner companies who develop code for devices
 covered by this program.
 
-*Last Updated: April 2026*
-
+*Last Updated: October 2026*
