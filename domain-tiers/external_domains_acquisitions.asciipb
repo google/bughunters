@@ -3967,10 +3967,6 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: "chorussystems.net"
-  tier: TIER2
-}
-domain: {
   fqdn: "jetbridge.net"
   tier: TIER2
 }
