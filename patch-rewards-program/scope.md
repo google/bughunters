@@ -29,6 +29,7 @@ Package                                                                         
 [libvpx](https://www.webmproject.org/code/)                                                    | 1/2025          | Core infrastructure data parsers
 [libogg](https://gitlab.xiph.org/xiph/ogg)                                                     | 1/2025          | Core infrastructure data parsers
 [libavif](https://github.com/aomediacodec/libavif)                                             | 1/2025          | Core infrastructure data parsers
+[libultrahdr](https://github.com/google/libultrahdr)                                           | 10/2026         | Core infrastructure data parsers
 [ffmpeg](https://git.ffmpeg.org/ffmpeg.git)                                                    | 1/2025          | Core infrastructure data parsers
 [Envoy proxy](https://www.envoyproxy.io/)                                                      | Prior to 1/2025 | Critical software used for cloud computing
 [xds](https://github.com/cncf/xds)                                                             | 1/2025          | Critical software used for cloud computing
