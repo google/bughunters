@@ -49,7 +49,6 @@ For more information on tiers and reward amounts, please see
 | https://github.com/flutter/devtools                                     | OT1  |
 | https://github.com/golang/vscode-go                                     | OT1  |
 | https://github.com/google-gemini/gemini-cli                             | OT1  |
-| https://github.com/google/XNNPACK                                       | OT1  |
 | https://github.com/google/adk-go                                        | OT1  |
 | https://github.com/google/adk-java                                      | OT1  |
 | https://github.com/google/adk-js                                        | OT1  |

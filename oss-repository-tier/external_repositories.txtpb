@@ -226,27 +226,27 @@ repository {
 repository {
   url: "https://github.com/google/adk-python"
   tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
+  product_vuln_scope: SCOPE_CLOUD_VRP
 }
 repository {
   url: "https://github.com/google/adk-js"
   tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
+  product_vuln_scope: SCOPE_CLOUD_VRP
 }
 repository {
   url: "https://github.com/google/adk-go"
   tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
+  product_vuln_scope: SCOPE_CLOUD_VRP
 }
 repository {
   url: "https://github.com/google/adk-java"
   tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
+  product_vuln_scope: SCOPE_CLOUD_VRP
 }
 repository {
   url: "https://github.com/google/adk-kotlin"
   tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
+  product_vuln_scope: SCOPE_CLOUD_VRP
 }
 repository {
   url: "https://github.com/shaka-project/shaka-player"
@@ -275,11 +275,6 @@ repository {
 }
 repository {
   url: "https://github.com/Polymer/polymer"
-  tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
-}
-repository {
-  url: "https://github.com/google/XNNPACK"
   tier: TIER_OT1
   product_vuln_scope: SCOPE_OSS_VRP
 }
