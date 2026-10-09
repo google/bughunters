@@ -1,4 +1,9 @@
 repository {
+  url: "https://github.com/apache/shiro"
+  tier: TIER_O10
+  product_vuln_scope: SCOPE_OSS_VRP
+}
+repository {
   url: "https://github.com/angular/angular"
   tier: TIER_OT0
   product_vuln_scope: SCOPE_OSS_VRP
