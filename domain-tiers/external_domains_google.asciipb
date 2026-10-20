@@ -1703,10 +1703,6 @@ domain: {
   tier: TIER3
 }
 domain: {
-  fqdn: "picasa-software.com"
-  tier: TIER3
-}
-domain: {
   fqdn: "qwiklabs.com"
   tier: TIER3
 }
