@@ -2141,10 +2141,6 @@ domain: {
   tier: TIER4
 }
 domain: {
-  fqdn: "sketchup.com"
-  tier: TIER4
-}
-domain: {
   fqdn: "skybox.com"
   tier: TIER4
 }
