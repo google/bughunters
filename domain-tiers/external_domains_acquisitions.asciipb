@@ -93,10 +93,6 @@ domain: {
   tier: TIER0
 }
 domain: {
-  fqdn: "dpcapi-admin.photomath.com"
-  tier: TIER0
-}
-domain: {
   fqdn: "internal.photomath.com"
   tier: TIER0
 }
@@ -125,18 +121,6 @@ domain: {
   tier: TIER0
 }
 domain: {
-  fqdn: "argocd-dwh-eu-dev.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "argocd-dwh-us-dev.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "argocd-gke-app-eu-dev.photomath.net"
-  tier: TIER0
-}
-domain: {
   fqdn: "argocd-gke-app-eu-prod.photomath.net"
   tier: TIER0
 }
@@ -153,59 +137,11 @@ domain: {
   tier: TIER0
 }
 domain: {
-  fqdn: "argocd-platform-eu-dev.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "argocd-platform-eu-test.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "argocd-platform-prod-eu.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "baja.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "cuvar.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "daportal.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "dpcapi.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "dpcapi-admin.photomath.net"
-  tier: TIER0
-}
-domain: {
   fqdn: "lapi.photomath.net"
   tier: TIER0
 }
 domain: {
-  fqdn: "mankey.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "metabase.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "taportal.photomath.net"
-  tier: TIER0
-}
-domain: {
   fqdn: "tlapi.photomath.net"
-  tier: TIER0
-}
-domain: {
-  fqdn: "zuja.photomath.net"
   tier: TIER0
 }
 domain: {
@@ -557,10 +493,6 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "dsnom.photomath.com"
-  tier: TIER1
-}
-domain: {
   fqdn: "pointy.com"
   tier: TIER1
 }
@@ -617,135 +549,11 @@ domain: {
   tier: TIER1
 }
 domain: {
-  fqdn: "aportal.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "cms.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "core.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dacp.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dcms.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dsnom.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dtap.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dtranslator.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "feeder.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "idp.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "iportal.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "pdb.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "pms-doc.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "portal.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "problem-lifecycle.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "result.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "rip.photomath.net"
-  tier: TIER1
-}
-domain: {
   fqdn: "snom.photomath.net"
   tier: TIER1
 }
 domain: {
-  fqdn: "sr.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "srs.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "srv4.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "tacp.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "tcms.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "tcopper.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "tfeeder.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "tidp.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "tportal.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "tproblem-lifecycle.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "translator.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "trip.photomath.net"
-  tier: TIER1
-}
-domain: {
   fqdn: "tsnom.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "ttranslator.photomath.net"
-  tier: TIER1
-}
-domain: {
-  fqdn: "dlapi.photomath.nettier"
   tier: TIER1
 }
 domain: {
@@ -1317,18 +1125,6 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: "dadp.photomath.com"
-  tier: TIER2
-}
-domain: {
-  fqdn: "dninjask.photomath.com"
-  tier: TIER2
-}
-domain: {
-  fqdn: "dpcapi.photomath.com"
-  tier: TIER2
-}
-domain: {
   fqdn: "riffusion.com"
   tier: TIER2
 }
@@ -1501,39 +1297,7 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: "acp.photomath.net"
-  tier: TIER2
-}
-domain: {
   fqdn: "adp.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "dadp.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "dninjask.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "dpdimages.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "dqapdimages.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "drip.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "horsea.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "json.photomath.net"
   tier: TIER2
 }
 domain: {
@@ -1542,10 +1306,6 @@ domain: {
 }
 domain: {
   fqdn: "pdimages.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "pws.photomath.net"
   tier: TIER2
 }
 domain: {
@@ -1558,14 +1318,6 @@ domain: {
 }
 domain: {
   fqdn: "tpdimages.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "tpws.photomath.net"
-  tier: TIER2
-}
-domain: {
-  fqdn: "tqapdimages.photomath.net"
   tier: TIER2
 }
 domain: {
@@ -2707,18 +2459,6 @@ domain: {
   tier: TIER3
 }
 domain: {
-  fqdn: "dpws.photomath.com"
-  tier: TIER3
-}
-domain: {
-  fqdn: "drapi.photomath.com"
-  tier: TIER3
-}
-domain: {
-  fqdn: "dttsp.photomath.com"
-  tier: TIER3
-}
-domain: {
   fqdn: "raxium.com"
   tier: TIER3
 }
@@ -2879,42 +2619,6 @@ domain: {
   tier: TIER3
 }
 domain: {
-  fqdn: "dggb-frame.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "dpws.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "drapi.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "drestrict.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "dsfc.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "dttsp.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "pdttsp.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "pttsp.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "ptttsp.photomath.net"
-  tier: TIER3
-}
-domain: {
   fqdn: "rapi.photomath.net"
   tier: TIER3
 }
@@ -2923,35 +2627,11 @@ domain: {
   tier: TIER3
 }
 domain: {
-  fqdn: "s.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "sfc.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "share.photomath.net"
-  tier: TIER3
-}
-domain: {
   fqdn: "trapi.photomath.net"
   tier: TIER3
 }
 domain: {
   fqdn: "trestrict.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "tsfc.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "ttsp.photomath.net"
-  tier: TIER3
-}
-domain: {
-  fqdn: "tttsp.photomath.net"
   tier: TIER3
 }
 domain: {
