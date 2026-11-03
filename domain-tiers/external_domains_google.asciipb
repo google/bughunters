@@ -2037,6 +2037,10 @@ domain: {
   tier: TIER4
 }
 domain: {
+  fqdn: "pa.googleapis.com"
+  tier: TIER4
+}
+domain: {
   fqdn: "sandbox.googleapis.com"
   tier: TIER4
 }
