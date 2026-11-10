@@ -455,10 +455,6 @@ domain: {
   tier: TIER2
 }
 domain: {
-  fqdn: "gfiber.com"
-  tier: TIER2
-}
-domain: {
   fqdn: "google.com"
   tier: TIER2
 }
@@ -2006,6 +2002,10 @@ domain: {
 }
 domain: {
   fqdn: "freebaseapps.com"
+  tier: TIER4
+}
+domain: {
+  fqdn: "gfiber.com"
   tier: TIER4
 }
 domain: {
