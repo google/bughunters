@@ -80,5 +80,4 @@ For more information on tiers and reward amounts, please see
 | https://github.com/tensorflow/serving                                   | OT1  |
 | https://github.com/tensorflow/tensorflow                                | OT1  |
 | https://github.com/tensorflow/tfjs                                      | OT1  |
-| https://github.com/tensorflow/tflite-micro                              | OT1  |
 

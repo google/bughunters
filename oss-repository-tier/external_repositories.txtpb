@@ -299,11 +299,6 @@ repository {
   product_vuln_scope: SCOPE_OSS_VRP
 }
 repository {
-  url: "https://github.com/tensorflow/tflite-micro"
-  tier: TIER_OT1
-  product_vuln_scope: SCOPE_OSS_VRP
-}
-repository {
   url: "https://github.com/tensorflow/serving"
   tier: TIER_OT1
   product_vuln_scope: SCOPE_OSS_VRP
